@@ -14,7 +14,7 @@ title: Validation
         data-ng-model="demo.firstName"
         data-av-val-field="firstName"
       >
-        <p data-av-val-container></p>
+      <p data-av-val-container></p>
     </div>
     <div class="form-group">
       <label for="demoLastName1">Last Name</label>
@@ -26,7 +26,7 @@ title: Validation
         data-av-val-field="lastName"
         data-av-val-on="blur"
       >
-        <p data-av-val-container></p>
+      <p data-av-val-container></p>
     </div>
     <div class="form-group">
       <label for="demoSSN">SSN</label>
@@ -94,8 +94,9 @@ title: Validation
         <input type="checkbox" data-ng-model="demo.check"> Check me out
       </label>
     </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-primary" data-ng-disabled="demoForm.$invalid">Submit</button>
     <button type="button" class="btn btn-default" data-ng-click="demo.onChangeRules()">Change Rules</button>
+    <button type="button" class="btn btn-default" data-ng-click="demoForm.$setPristine()">Set Pristine</button>
   </form>
 </div>
 <code class="language-markup">
