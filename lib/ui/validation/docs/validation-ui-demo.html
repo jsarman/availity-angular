@@ -1,7 +1,7 @@
 ---
 title: Validation
 ---
-
+<h3 class="guide-subsection-title">Default</h3>
 <div class="guide-example" data-ng-controller="ValidationController">
   <form name="demoForm" data-av-val-form="demo.rule">
     <div class="form-group">
@@ -94,7 +94,7 @@ title: Validation
         <input type="checkbox" data-ng-model="demo.check"> Check me out
       </label>
     </div>
-    <button type="submit" class="btn btn-primary" data-ng-disabled="demoForm.$invalid">Submit</button>
+    <button type="submit" class="btn btn-primary">Submit</button>
     <button type="button" class="btn btn-default" data-ng-click="demo.onChangeRules()">Change Rules</button>
     <button type="button" class="btn btn-default" data-ng-click="demoForm.$setPristine()">Set Pristine</button>
   </form>
@@ -104,3 +104,24 @@ title: Validation
 <!-- Javascript -->
 
 </code>
+
+<h3 class="guide-subsection-title">Disabled Submit</h3>
+<div class="guide-example" data-ng-controller="ValidationController">
+  <form name="demoForm2" data-av-val-form="demo.rule">
+    <div class="form-group">
+      <label for="demoFirstName2">First Name</label>
+      <input
+        type="text"
+        class="form-control"
+        name="demoFirstName2"
+        placeholder="..."
+        data-ng-model="demo.firstName2"
+        data-av-val-field="firstName"
+      >
+      <p data-av-val-container></p>
+    </div>
+    <button type="submit" class="btn btn-primary" data-ng-disabled="demoForm2.$invalid">Submit</button>
+  </form>
+</div>
+
+
