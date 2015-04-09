@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "totalCount": 1
+  },
+  "organization": {
+    "id": "1435",
+    "name": "Availity Test Org",
+    "customerId": "1194",
+    "taxId": "111999888",
+    "alternativeTaxIds": [
+      "111111111",
+       "222222222",
+       "333333333"
+    ],
+    "address": {
+      "addressLine1": "10752 Deerwood Pk. Blvd. S.",
+      "addressLine2": "Suite #110",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "32256"
+    },
+    "primaryAccessAdministrator": {
+      "firstName": "Sue",
+      "lastName": "Shipp",
+      "emailAddress": "shshipp@availity.com"
+    },
+    "types": [
+      {
+        "code": 1,
+        "name": "Availity"
+      }
+    ],
+    "geographies": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "FL",
+      "GA",
+      "HI",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MN",
+      "MO",
+      "MS",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "registrationStatus": {
+      "id": 3,
+      "description": "Live"
+    },
+    "arrangements": [
+      {
+        "id": 237,
+        "serviceCode": 1,
+        "statusCode": 2,
+        "activeDate": "2007-07-02T04:00:00.000+0000"
+      },
+      {
+        "id": 238,
+        "serviceCode": 2,
+        "statusCode": 2,
+        "activeDate": "2007-07-02T04:00:00.000+0000"
+      },
+      {
+        "id": 239,
+        "serviceCode": 4,
+        "statusCode": 2,
+        "activeDate": "2007-07-02T04:00:00.000+0000"
+      },
+      {
+        "id": 264,
+        "serviceCode": 5,
+        "statusCode": 2,
+        "activeDate": "2007-11-13T21:54:00.000+0000"
+      },
+      {
+        "id": 387,
+        "serviceCode": 1,
+        "statusCode": 2,
+        "activeDate": "2010-02-23T20:43:43.000+0000"
+      },
+      {
+        "id": 448,
+        "serviceCode": 10,
+        "statusCode": 2,
+        "activeDate": "2010-12-01T16:43:13.000+0000"
+      },
+      {
+        "id": 960,
+        "serviceCode": 12,
+        "statusCode": 2,
+        "activeDate": "2012-10-23T15:20:11.000+0000"
+      },
+      {
+        "id": 2634,
+        "serviceCode": 16,
+        "statusCode": 2,
+        "activeDate": "2013-04-30T04:00:00.000+0000",
+        "terminateDate": "8099-01-01T05:00:00.000+0000"
+      },
+      {
+        "id": 2635,
+        "serviceCode": 14,
+        "statusCode": 2,
+        "activeDate": "2013-04-30T04:00:00.000+0000",
+        "terminateDate": "8099-01-01T05:00:00.000+0000"
+      },
+      {
+        "id": 2636,
+        "serviceCode": 19,
+        "statusCode": 2,
+        "activeDate": "2013-04-30T04:00:00.000+0000",
+        "terminateDate": "8099-01-01T05:00:00.000+0000"
+      },
+      {
+        "id": 2637,
+        "serviceCode": 18,
+        "statusCode": 2,
+        "activeDate": "2013-04-30T04:00:00.000+0000",
+        "terminateDate": "8099-01-01T05:00:00.000+0000"
+      },
+      {
+        "id": 285962,
+        "serviceCode": 21,
+        "statusCode": 2,
+        "activeDate": "2013-07-24T18:11:15.000+0000"
+      }
+    ],
+    "externalOrganizations": [
+      {
+        "name": "Dr. Bob",
+        "papi": " 75001720 "
+      },
+      {
+        "name": "",
+        "papi": "asdfasdf"
+      },
+      {
+        "name": "",
+        "papi": "N2509"
+      },
+      {
+        "name": "",
+        "papi": "H3110"
+      },
+      {
+        "name": "Dr. Bob",
+        "papi": " 75001720 "
+      },
+      {
+        "name": "",
+        "papi": "G2509"
+      }
+    ],
+    "payerAssignedIdentifiers": [
+      {
+        "payerId": "BCBSF",
+        "identifier": "G2509"
+      },
+      {
+        "payerId": "BCBSF",
+        "identifier": "H3110"
+      },
+      {
+        "payerId": "BCBSF",
+        "identifier": "N2509"
+      },
+      {
+        "payerId": "HUMANA",
+        "identifier": "asdfasdf"
+      },
+      {
+        "payerId": "45056",
+        "identifier": " 75001720 "
+      },
+      {
+        "payerId": "45056",
+        "identifier": " 75001720 "
+      }
+    ]
+  }
+}

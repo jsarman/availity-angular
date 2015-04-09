@@ -1,0 +1,6651 @@
+{
+  "metadata": {
+    "totalCount": 1
+  },
+  "organization": {
+    "id": "86210",
+    "name": "MWeed",
+    "customerId": "16633",
+    "taxId": "061766026",
+    "alternativeTaxIds": [
+      "111111111",
+       "222222222",
+       "333333333"
+    ],
+    "address": {
+      "addressLine1": "7406 Fullerton St.",
+      "addressLine2": "Ste. 300",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "32256"
+    },
+    "primaryAccessAdministrator": {
+      "firstName": "K",
+      "lastName": "Weed",
+      "emailAddress": "mweed@availity.com"
+    },
+    "types": [
+      {
+        "code": 10,
+        "name": "Physician Practice"
+      }
+    ],
+    "geographies": [
+      "FL"
+    ],
+    "registrationStatus": {
+      "id": 3,
+      "description": "Live"
+    },
+    "arrangements": [
+      {
+        "id": 4280,
+        "serviceCode": 12,
+        "statusCode": 2,
+        "activeDate": "2013-09-30T17:11:56.000+0000"
+      },
+      {
+        "id": 295092,
+        "serviceCode": 21,
+        "statusCode": 2,
+        "activeDate": "2013-07-24T18:11:18.000+0000"
+      }
+    ],
+    "externalOrganizations": [
+      {
+        "name": "ISMAEL MORERA MD PA",
+        "papi": "75021676"
+      },
+      {
+        "name": "WEST FLORIDA MEDICAL ASSOCIATES PA",
+        "papi": "75050397"
+      },
+      {
+        "name": "CONTINUCARE MEDICAL MANAGEMENT LUTZ",
+        "papi": "75021272"
+      },
+      {
+        "name": "CALA HILLS MEDICAL CENTER INC",
+        "papi": "75001313"
+      },
+      {
+        "name": "GADSDEN FAMILY CLINIC PA",
+        "papi": "75001555"
+      },
+      {
+        "name": "FLORIDA FAMILY PHYSICIANS LLC",
+        "papi": "75001547"
+      },
+      {
+        "name": "JUAN E BATISTA MD PA",
+        "papi": "75021727"
+      },
+      {
+        "name": "KAPLAN, PERRY",
+        "papi": "1002742 "
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75050653"
+      },
+      {
+        "name": "CRESTVIEW HEALTH CENTER",
+        "papi": "75021283"
+      },
+      {
+        "name": "RICHARD M SAG MD PA",
+        "papi": "75020273"
+      },
+      {
+        "name": "HUMERAA QAMAR MD PA",
+        "papi": "75001592"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008646"
+      },
+      {
+        "name": "PEDIATRIC ASSOCIATES OF TAMPA BAY",
+        "papi": "75020025"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER CLEWISTON",
+        "papi": "75021430"
+      },
+      {
+        "name": "FIRST CHOICE PEDIATRICS INC",
+        "papi": "75021396"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008671"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS INC",
+        "papi": "75008623"
+      },
+      {
+        "name": "RATNA DHINGRA",
+        "papi": "75022120"
+      },
+      {
+        "name": "ROBERT L TEITELBAUM MD PA",
+        "papi": "75001757"
+      },
+      {
+        "name": "LARRY C DEEB MD PA",
+        "papi": "75001624"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75050144"
+      },
+      {
+        "name": "FAMILY INTERNAL MEDICINE OF OCALA LLC",
+        "papi": "75050225"
+      },
+      {
+        "name": "AKBAR QURESHI",
+        "papi": "75022110"
+      },
+      {
+        "name": "VITAL SIGNS PHYSICIANS",
+        "papi": "75020717"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75050146"
+      },
+      {
+        "name": "PULIDO INTERNAL MEDICINE LLC",
+        "papi": "75001731"
+      },
+      {
+        "name": "DESOTO MEMORIAL HOSPITAL INC",
+        "papi": "75021300"
+      },
+      {
+        "name": "CONTINUCARE MDHC LLC HIALEAH",
+        "papi": "75021277"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75050148"
+      },
+      {
+        "name": "LAKELAND PHYSICIANS GROUP",
+        "papi": "75021759"
+      },
+      {
+        "name": "LARGO PHYSICIAN GROUP",
+        "papi": "75021765"
+      },
+      {
+        "name": "ABRAKIDABRA PEDIATRICS CLINIC LLC",
+        "papi": "75020916"
+      },
+      {
+        "name": "MCH EMERGENCY PHYSICIANS",
+        "papi": "75021857"
+      },
+      {
+        "name": "GULFCOAST MD PA",
+        "papi": "75021562"
+      },
+      {
+        "name": "",
+        "papi": "G2509"
+      },
+      {
+        "name": "ELIZABETH BENITEZ",
+        "papi": "75001378"
+      },
+      {
+        "name": "RIDGE MANOR MEDICAL CLINIC",
+        "papi": "75020274"
+      },
+      {
+        "name": "COMMUNITY HEALTH OF SOUTH FLORIDA",
+        "papi": "75021257"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "WINNIE PALMER MATERNAL FETAL MEDICINE GROUP",
+        "papi": "75020812"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTERS INC",
+        "papi": "75020428"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75005397"
+      },
+      {
+        "name": "KIDS CARE PEDIATRICS PA",
+        "papi": "75001619"
+      },
+      {
+        "name": "ELADIO DIEGUEZ",
+        "papi": "75001377"
+      },
+      {
+        "name": "BAYSIDE PEDIATRICS INC",
+        "papi": "75050922"
+      },
+      {
+        "name": "JOSE ALVAREZ BERNAL",
+        "papi": "75022094"
+      },
+      {
+        "name": "INTERNAL MEDICINE SPECIALISTS MEDICAL GROUP PA",
+        "papi": "75021671"
+      },
+      {
+        "name": "WAKULLA URGENT CARE & DIAGNOSTIC CENTER",
+        "papi": "75001390"
+      },
+      {
+        "name": "LAKESIDE MEDICAL CENTER",
+        "papi": "75021760"
+      },
+      {
+        "name": "MISAL KHAN",
+        "papi": "75001442"
+      },
+      {
+        "name": "LAKELAND PHYSICIANS GROUP",
+        "papi": "75021758"
+      },
+      {
+        "name": "PEDIATRICS BY THE SEA",
+        "papi": "75020092"
+      },
+      {
+        "name": "KIDS FIRST PEDIATRIC CENTER OF NORTH NAPLES LLC",
+        "papi": "75021739"
+      },
+      {
+        "name": "CONTINUCARE MDHC LLC NORTH DADE PEDIATRICS",
+        "papi": "75021269"
+      },
+      {
+        "name": "PULMONARY & SLEEP OF TAMPA BAY",
+        "papi": "75020234"
+      },
+      {
+        "name": "UNIVERSITY OF MIAMI STUDENT HEALTH SERVICES",
+        "papi": "75020616"
+      },
+      {
+        "name": "JUAN E BATISTA MD PA",
+        "papi": "75021726"
+      },
+      {
+        "name": "OSCEOLA COUNTY HEALTH DEPARTMENT",
+        "papi": "75019995"
+      },
+      {
+        "name": "PENSACOLA PRIMARY CARE INC",
+        "papi": "75020166"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75050289"
+      },
+      {
+        "name": "SUN N LAKE MEDICAL LAKE PLACID",
+        "papi": "75020411"
+      },
+      {
+        "name": "DR CAMILO ZAMBRANO MD",
+        "papi": "75050900"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020403"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER FORT PIERCE",
+        "papi": "75021431"
+      },
+      {
+        "name": "OAKFILED COMMUNITY HEALTH CENTER SUNCOAST",
+        "papi": "75019966"
+      },
+      {
+        "name": "AZALEAH HEALTH WELAKA",
+        "papi": "75001472"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75020633"
+      },
+      {
+        "name": "COMMUNITY HEALTH OF SOUTH FLORIDA",
+        "papi": "75021253"
+      },
+      {
+        "name": "SANTIAGO M HOYOS MD PA",
+        "papi": "75020327"
+      },
+      {
+        "name": "MILLA PEDIATRICS & ASSOCIATES INC",
+        "papi": "75001656"
+      },
+      {
+        "name": "JFK INTERNAL MEDICINE FACULTY PRACTICE LLC",
+        "papi": "75021708"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020746"
+      },
+      {
+        "name": "A PLUS PEDIATRICS",
+        "papi": "75001423"
+      },
+      {
+        "name": "RICHARD C GOFF MD",
+        "papi": "75001750"
+      },
+      {
+        "name": "ALLIANCE PEDIATRICS PA",
+        "papi": "75001457"
+      },
+      {
+        "name": "P JOHN KIM",
+        "papi": "75001474"
+      },
+      {
+        "name": "PEDIATRIC PARTNERS OF ZEPHYRHILLS PA",
+        "papi": "75020061"
+      },
+      {
+        "name": "ALFREDA D BLACKSHEAR MD",
+        "papi": "75052179"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052602"
+      },
+      {
+        "name": "NATURE COAST PRIMARY CARE PLLC",
+        "papi": "75001666"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75020649"
+      },
+      {
+        "name": "MUHAMMAD AMIN",
+        "papi": "75008594"
+      },
+      {
+        "name": "SOUTH LAKE PEDIATRICS PA",
+        "papi": "75005385"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020654"
+      },
+      {
+        "name": "HOLISTIC PEDIATRICS GROUP LLC",
+        "papi": "75021623"
+      },
+      {
+        "name": "AZALEAH HEALTH HAWTHORNE",
+        "papi": "75005275"
+      },
+      {
+        "name": "MARIANNA FAMILY CARE CENTER",
+        "papi": "75050593"
+      },
+      {
+        "name": "WESLEY CHAPEL MEDICAL CLINIC",
+        "papi": "75020727"
+      },
+      {
+        "name": "SUNRISE PRIMARY CARE INC",
+        "papi": "75001798"
+      },
+      {
+        "name": "BREVARD HEALTH ALLIANCE INC",
+        "papi": "75021135"
+      },
+      {
+        "name": "FLORIDA MEDICAL SPECIALIST LLC",
+        "papi": "75021472"
+      },
+      {
+        "name": "ALLIANCE PEDIATRICS PA",
+        "papi": "75001457"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75050145"
+      },
+      {
+        "name": "MAHENDRAKUMAR PATEL",
+        "papi": "75022085"
+      },
+      {
+        "name": "DYNAMIC HEALTH CENTERS INC",
+        "papi": "75050156"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020430"
+      },
+      {
+        "name": "COMPASSION PEDIATRICS LLC",
+        "papi": "75021259"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75050220"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER PAHOKEE CENTER",
+        "papi": "75021435"
+      },
+      {
+        "name": "MAGNOLIA PEDIATRICS GROUPS LLC",
+        "papi": "75001632"
+      },
+      {
+        "name": "TRINITY HEALTHCARE MEDICAL CENTER",
+        "papi": "75001856"
+      },
+      {
+        "name": "A TO Z PEDIATRICS",
+        "papi": "75020895"
+      },
+      {
+        "name": "BOND COMMUNITY HEALTH CENTER",
+        "papi": "75013954"
+      },
+      {
+        "name": "DOCTORS MEDICAL CENTER",
+        "papi": "75021310"
+      },
+      {
+        "name": "ANSELMO H HUMARAN MD PA",
+        "papi": "75021011"
+      },
+      {
+        "name": "HEART AND VASCULAR CARE OF OCALA INC",
+        "papi": "75001577"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75020370"
+      },
+      {
+        "name": "LAKE BUTLER MEDICAL CLINIC INC",
+        "papi": "75050701"
+      },
+      {
+        "name": "BORINQUEN HEALTH CARE CENTER",
+        "papi": "75021118"
+      },
+      {
+        "name": "SUNCOAST COMMUNITY HEALTH CENTER PEDIATRICS",
+        "papi": "75020414"
+      },
+      {
+        "name": "WINNIE PALMER MATERNAL FETAL MEDICINE GROUP",
+        "papi": "75020842"
+      },
+      {
+        "name": "BAY COUNTY HEALTH DEPARTMENT",
+        "papi": "75001476"
+      },
+      {
+        "name": "CITRUS COUNTY HEALTH DEPARTMENT",
+        "papi": "75008576"
+      },
+      {
+        "name": "NEMOURS CHILDRENS CLINIC ORLANDO",
+        "papi": "75050252"
+      },
+      {
+        "name": "TMH FAMILY MEDICINE RESIDENCY PRECEPTOR PROGRAM",
+        "papi": "75050069"
+      },
+      {
+        "name": "INTERNAL MEDICINE ASSOCIATES OF OCALA PA",
+        "papi": "75008613"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021691"
+      },
+      {
+        "name": "KATZ PEDIATRICS",
+        "papi": "75021732"
+      },
+      {
+        "name": "HECTOR CORDERO",
+        "papi": "75022054"
+      },
+      {
+        "name": "AZALEA HEALTH-GREEN COVE SPRINGS",
+        "papi": "75053221"
+      },
+      {
+        "name": "NAPLES PEDIATRICS INC",
+        "papi": "75050864"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75005397"
+      },
+      {
+        "name": "RAMESH N MATHUR MD PA",
+        "papi": "75020257"
+      },
+      {
+        "name": "TLC MEDICAL LLC",
+        "papi": "75020467"
+      },
+      {
+        "name": "EAST FLORIDA PRIMARY CARE LLC",
+        "papi": "75020203"
+      },
+      {
+        "name": "TASKIN HAQUE MD",
+        "papi": "75051016"
+      },
+      {
+        "name": "ANJANA RANA",
+        "papi": "75001462"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75050287"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021689"
+      },
+      {
+        "name": "VERNON FAMILY HEALTH CENTER",
+        "papi": "75020707"
+      },
+      {
+        "name": "ROCKLEDGE HMA MEDICAL GROUP LLC",
+        "papi": "75020302"
+      },
+      {
+        "name": "ATLANTIC COAST MEDICAL",
+        "papi": "75021074"
+      },
+      {
+        "name": "LEON A COHEN MD PA",
+        "papi": "75021806"
+      },
+      {
+        "name": "DESOTO MEMORIAL CENTER FOR FAMILY HEALTH",
+        "papi": "75021298"
+      },
+      {
+        "name": "MY TAMPABAY PEDIATRICS",
+        "papi": "75019811"
+      },
+      {
+        "name": "TALLAHASSEE ORTHOPEDIC CLINIC",
+        "papi": "75005435"
+      },
+      {
+        "name": "REGIONAL PEDIATRICS AND NEWBORN CARE",
+        "papi": "75050265"
+      },
+      {
+        "name": "BOND COMMUNITY HEALTH CENTER",
+        "papi": "75001309"
+      },
+      {
+        "name": "BANYAN COMMUNITY HEALTH CENTER INC",
+        "papi": "75021089"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020657"
+      },
+      {
+        "name": "FAST TRACK PEDIATRICS",
+        "papi": "75001534"
+      },
+      {
+        "name": "GOGI RAMAPPA",
+        "papi": "75022104"
+      },
+      {
+        "name": "NU WAVE MEDICAL CENTER PA",
+        "papi": "75001688"
+      },
+      {
+        "name": "JESSIE TRICE COMMUNITY HEALTH CENTER",
+        "papi": "75021699"
+      },
+      {
+        "name": "ER PHYSICIAN GROUP AT JACKSON HOSPITAL",
+        "papi": "75052928"
+      },
+      {
+        "name": "LAB CHRIST MEDICAL CENTER",
+        "papi": "75051118"
+      },
+      {
+        "name": "TRUC C TRAN MD",
+        "papi": "75020491"
+      },
+      {
+        "name": "FAMILY HEALTH CENTER OF COLUMBIA COUNTY INC",
+        "papi": "75001527"
+      },
+      {
+        "name": "AIDS HEALTHCARE FOUNDATION",
+        "papi": "75020966"
+      },
+      {
+        "name": "BANKS, YANA S.",
+        "papi": "75006685"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75008609"
+      },
+      {
+        "name": "CENTRAL FLORIDA FAMILY HEALTH CENTER ALAFAYA",
+        "papi": "75021182"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052447"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75005292"
+      },
+      {
+        "name": "CHILDRENS MEDICAL CENTER",
+        "papi": "75021213"
+      },
+      {
+        "name": "BENTON PEDIATRICS",
+        "papi": "75001304"
+      },
+      {
+        "name": "GAINESVILLE PEDIATRIC MEDICINE",
+        "papi": "75001562"
+      },
+      {
+        "name": "SUNSHINE PEDIATRICS OF OCALA ALLIED",
+        "papi": "75001800"
+      },
+      {
+        "name": "I KIDS PEDIATRICS",
+        "papi": "75021632"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTERS INC",
+        "papi": "75020436"
+      },
+      {
+        "name": "AMERICAN FAMILY & GERIATRIC CARE",
+        "papi": "75020998"
+      },
+      {
+        "name": "JANIVARA UMESH",
+        "papi": "75022106"
+      },
+      {
+        "name": "GREEN, BONNIE G.",
+        "papi": "75008301"
+      },
+      {
+        "name": "REKHA ISSAR",
+        "papi": "75022133"
+      },
+      {
+        "name": "ISAAC THOMPSON MD PA",
+        "papi": "75050956"
+      },
+      {
+        "name": "ALL MY KIDS PEDIATRICS",
+        "papi": "75020980"
+      },
+      {
+        "name": "RASHDA ALBIBI MD PA",
+        "papi": "75052414"
+      },
+      {
+        "name": "ESCAMBIA COMMUNITY CLINIC URGENT CARE",
+        "papi": "75021353"
+      },
+      {
+        "name": "PUTNAM FAMILY CARE INC",
+        "papi": "75001734"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021898"
+      },
+      {
+        "name": "OAKS FAMILY PRACTICE PA",
+        "papi": "75019967"
+      },
+      {
+        "name": "HERE WE GROW PEDIATRICS PA.",
+        "papi": "75051082"
+      },
+      {
+        "name": "MEMORIAL FAMILY PRACTICE ASSOCIATES",
+        "papi": "75019851"
+      },
+      {
+        "name": "UF HEALTH CANCER CENTER ORLANDO HEALTH PHYSICIAN GROUP",
+        "papi": "75021886"
+      },
+      {
+        "name": "BREVARD HEALTH ALLIANCE INC",
+        "papi": "75021137"
+      },
+      {
+        "name": "ZOE FAMILY CARE CLINIC",
+        "papi": "75052384"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008654"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020399"
+      },
+      {
+        "name": "MARIA M MENA MD",
+        "papi": "75001637"
+      },
+      {
+        "name": "ACCESS MEDICAL GROUP OF PERRINE INC",
+        "papi": "75020924"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008648"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008666"
+      },
+      {
+        "name": "MOHAMMED G CHOUDHURY MD",
+        "papi": "75001658"
+      },
+      {
+        "name": "ALTAMONTE PEDIATRIC ASSOCIATES PA",
+        "papi": "75020991"
+      },
+      {
+        "name": "PHYSICIAN PRACTICES OF MSMC LLC",
+        "papi": "75020179"
+      },
+      {
+        "name": "UMDC NEONATOLOGY DIV OF PEDS",
+        "papi": "75020606"
+      },
+      {
+        "name": "HERNANDO COUNTY HEALTH DEPARTMENT",
+        "papi": "75008611"
+      },
+      {
+        "name": "ALLIANCE MEDICAL ASSOCIATES INC",
+        "papi": "75052553"
+      },
+      {
+        "name": "PENSACOLA PEDIATRICS PA",
+        "papi": "75020162"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020650"
+      },
+      {
+        "name": "MATURITY MEDICAL PA",
+        "papi": "75021843"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "INPATIENT CONSULTANTS OF FLORIDA INC",
+        "papi": "75021659"
+      },
+      {
+        "name": "GAINESVILLE FAMILY PHYSICIAN LLC",
+        "papi": "75005311"
+      },
+      {
+        "name": "NORTH FLORIDA PEDIATRICS PA",
+        "papi": "75052850"
+      },
+      {
+        "name": "MICHAEL EDWARD BARNES MD",
+        "papi": "75050577"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75050656"
+      },
+      {
+        "name": "WEKIVA SPRINGS PEDIATRICS",
+        "papi": "75020724"
+      },
+      {
+        "name": "ANNETTE M ST PIERRE MACKOUL MD PA",
+        "papi": "75021010"
+      },
+      {
+        "name": "RIVER VALLEY MEDICAL CENTER",
+        "papi": "75001754"
+      },
+      {
+        "name": "FAMILY INTERNAL MEDICINE OF OCALA LLC",
+        "papi": "75050227"
+      },
+      {
+        "name": "FLORIDA FAMILY PHYSICIANS LLC",
+        "papi": "75021444"
+      },
+      {
+        "name": "TMH PHYSICIAN PARTNERS BLOUNTSTOWN",
+        "papi": "75050074"
+      },
+      {
+        "name": "MASOOD AHMAD MD",
+        "papi": "75052348"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021693"
+      },
+      {
+        "name": "GOLDEN GATE FAMILY CLINIC",
+        "papi": "75021542"
+      },
+      {
+        "name": "BARBARA BALDWIN",
+        "papi": "75022010"
+      },
+      {
+        "name": "PENSACOLA PRIMARY CARE INC",
+        "papi": "75020170"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75050652"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050103"
+      },
+      {
+        "name": "PREMIER PEDIATRICS LLC",
+        "papi": "75001726"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75051256"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021902"
+      },
+      {
+        "name": "APOLLO BEACH FAMILY MEDICAL CENTER",
+        "papi": "75021016"
+      },
+      {
+        "name": "HIPPOCRATIC MEDICAL CENTER LLC",
+        "papi": "75021622"
+      },
+      {
+        "name": "JESSIE TRICE COMMUNITY HEALTH CENTER",
+        "papi": "75021703"
+      },
+      {
+        "name": "PHOENIX FAMILY HEALTH CARE CENTER",
+        "papi": "75001720"
+      },
+      {
+        "name": "LITTLE PINES PEDIATRICS PLLC",
+        "papi": "75052325"
+      },
+      {
+        "name": "CHILDRENS HEALTH OF OCALA",
+        "papi": "75001351"
+      },
+      {
+        "name": "IVO ALONSO MD PA",
+        "papi": "75021677"
+      },
+      {
+        "name": "COMPLETE HEALTH OF TAMPA BAY PA",
+        "papi": "75021260"
+      },
+      {
+        "name": "FAMILY HEALTH CENTER DENTAL CLINIC OF COLUMBIA COU",
+        "papi": "75014187"
+      },
+      {
+        "name": "APC PEDIATRICS",
+        "papi": "75021014"
+      },
+      {
+        "name": "CAROL STEWART MD PA",
+        "papi": "75021172"
+      },
+      {
+        "name": "TRINITY PEDIATRICS",
+        "papi": "75001857"
+      },
+      {
+        "name": "MEDICAL VILLAGE HEALTHCARE GROUP",
+        "papi": "75021910"
+      },
+      {
+        "name": "HIGH SPRINGS PEDIATRICS LLC",
+        "papi": "75001589"
+      },
+      {
+        "name": "BAYFRONT FAMILY HEALTH CENTER",
+        "papi": "75021100"
+      },
+      {
+        "name": "BAY AREA MEDICAL CENTER PA",
+        "papi": "75050830"
+      },
+      {
+        "name": "REYNALDO D DACO MD PA",
+        "papi": "75020269"
+      },
+      {
+        "name": "OCALA WEST FAMILY MEDICINE",
+        "papi": "75001706"
+      },
+      {
+        "name": "HOA LE",
+        "papi": "75022032"
+      },
+      {
+        "name": "BEACH MEDICAL OFFICE",
+        "papi": "75021103"
+      },
+      {
+        "name": "WEEMS HEALTH CENTER EAST",
+        "papi": "75001391"
+      },
+      {
+        "name": "PEDIATRIX MEDICAL GROUP OF FLORIDA INC",
+        "papi": "75020118"
+      },
+      {
+        "name": "ER PHYSICIANS GROUP AT JACKSON HOSPITAL",
+        "papi": "75005298"
+      },
+      {
+        "name": "RAULERSON PRIMARY CARE GROUP LLC",
+        "papi": "75050442"
+      },
+      {
+        "name": "YADIRA BAYONA SALCEDO",
+        "papi": "75021966"
+      },
+      {
+        "name": "SARASOTA EMERGENCY ASSOCIATES PA",
+        "papi": "75020333"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020437"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER INDIANTOWN",
+        "papi": "75021432"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020658"
+      },
+      {
+        "name": "RAINBOW PEDIATRICS PC LLC",
+        "papi": "75050055"
+      },
+      {
+        "name": "HEARTLAND PEDIATRICS OF LAKE WALES LLC",
+        "papi": "75050905"
+      },
+      {
+        "name": "CHILDRENS MEDICAL CENTER",
+        "papi": "75021212"
+      },
+      {
+        "name": "PANAMA CITY PEDIATRICS PA",
+        "papi": "75050051"
+      },
+      {
+        "name": "ANJUM HUSSAIN",
+        "papi": "75022089"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020743"
+      },
+      {
+        "name": "ALACHUA COUNTY HEALTH DEPARTMENT",
+        "papi": "75008596"
+      },
+      {
+        "name": "PREMIER MEDICAL PEDIATRICS CLINIC INC",
+        "papi": "75050550"
+      },
+      {
+        "name": "NORTHPOINTE PHYSICIANS GROUP",
+        "papi": "75019948"
+      },
+      {
+        "name": "FLORIDA FAMILY MEDICINE",
+        "papi": "75021443"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75050290"
+      },
+      {
+        "name": "BOCA DEL MAR PEDIATRICS & ADOLESCENT CENTER PA",
+        "papi": "75021114"
+      },
+      {
+        "name": "MOHAMMAD YUNUS MD PA",
+        "papi": "75050246"
+      },
+      {
+        "name": "ANDREW NGUYEN MD",
+        "papi": "75001459"
+      },
+      {
+        "name": "ALLIANCE PEDIATRICS PA",
+        "papi": "75001457"
+      },
+      {
+        "name": "KIDS HEALTH ALLIANCE PA",
+        "papi": "75001620"
+      },
+      {
+        "name": "NORTH FLORIDA PEDIATRICS",
+        "papi": "75050254"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050382"
+      },
+      {
+        "name": "GULF COAST HEALTH CARE SYSTEMS",
+        "papi": "75021552"
+      },
+      {
+        "name": "WEEMS HEALTH CENTER WEST",
+        "papi": "75005243"
+      },
+      {
+        "name": "MUHAMMAD SALEEM",
+        "papi": "75021953"
+      },
+      {
+        "name": "CELEBRATION PEDIATRICS PA",
+        "papi": "75021175"
+      },
+      {
+        "name": "WEWAHITCHKA MEDICAL CENTER",
+        "papi": "75001408"
+      },
+      {
+        "name": "MARWAN OBID MD PC",
+        "papi": "75052003"
+      },
+      {
+        "name": "GAINESVILLE FAMILY PHYSICIAN LLC",
+        "papi": "75005311"
+      },
+      {
+        "name": "BORINQUEN HEALTH CARE CENTER",
+        "papi": "75021117"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75050248"
+      },
+      {
+        "name": "MCH SPECIALISTS",
+        "papi": "75021883"
+      },
+      {
+        "name": "SYED GILANI",
+        "papi": "75052460"
+      },
+      {
+        "name": "PANCARE OF FLORIDA INC",
+        "papi": "75001712"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER CARROLLWOOD",
+        "papi": "75021458"
+      },
+      {
+        "name": "ALL ABOUT KIDS PEDIATRICS",
+        "papi": "75020975"
+      },
+      {
+        "name": "RAYMOND CARON",
+        "papi": "75021993"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75050286"
+      },
+      {
+        "name": "FAMILY INTERNAL MEDICINE OF OCALA LLC",
+        "papi": "75050228"
+      },
+      {
+        "name": "PEDIATRIC ASSOCIATES OF SARASOTA INC",
+        "papi": "75020024"
+      },
+      {
+        "name": "ELAINE ROSS MD PA AND TONYA WILLIAMS MD PA",
+        "papi": "75021343"
+      },
+      {
+        "name": "GREATER TAMPA BAY PHYSICIAN NETWORK LLC",
+        "papi": "75021547"
+      },
+      {
+        "name": "EVEREST MEDICAL CARE PA",
+        "papi": "75001519"
+      },
+      {
+        "name": "BRADENTON HEART CENTER",
+        "papi": "75021126"
+      },
+      {
+        "name": "SONI FAMILY PRACTICE PLLC",
+        "papi": "75020361"
+      },
+      {
+        "name": "FCHC DR FED BROWNS CHILDRENS HEALTH CENTER",
+        "papi": "75021392"
+      },
+      {
+        "name": "COMMUNITY HEALTH OF SOUTH FLORIDA",
+        "papi": "75021258"
+      },
+      {
+        "name": "HIMANSHU KAIRAB MD",
+        "papi": "75001590"
+      },
+      {
+        "name": "HEARTLAND PEDIATRICS OF LAKE PLACID INC",
+        "papi": "75050948"
+      },
+      {
+        "name": "BAKER FAMILY MEDICAL CENTER",
+        "papi": "75021088"
+      },
+      {
+        "name": "CHAPEL PRIMARY CARE",
+        "papi": "75050933"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021374"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "EASTPOINT MEDICAL CENTER",
+        "papi": "75001510"
+      },
+      {
+        "name": "ALTAMONTE PEDIATRIC ASSOCIATES PA",
+        "papi": "75020990"
+      },
+      {
+        "name": "PEDIATRIC ASSOCIATES OF SARASOTA INC",
+        "papi": "75020023"
+      },
+      {
+        "name": "FAMILY INTERNAL MEDICINE OF OCALA LLC",
+        "papi": "75050224"
+      },
+      {
+        "name": "EXCEL PEDIATRICS AND FAMILY CARE",
+        "papi": "75008602"
+      },
+      {
+        "name": "TMH TRANSITION CENTER",
+        "papi": "75050075"
+      },
+      {
+        "name": "DOCTORS MEDICAL CENTER",
+        "papi": "75021318"
+      },
+      {
+        "name": "WILLISTON PEDIATRICS",
+        "papi": "75001410"
+      },
+      {
+        "name": "LOOP PEDIATRICS PA",
+        "papi": "75021818"
+      },
+      {
+        "name": "LITTLE PEOPLE PEDIATRICS",
+        "papi": "75021814"
+      },
+      {
+        "name": "YAKUB POTHIAWALA",
+        "papi": "75021938"
+      },
+      {
+        "name": "BREVARD HEALTH ALLIANCE INC",
+        "papi": "75021131"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008637"
+      },
+      {
+        "name": "PEDIATRIC ASSOCIATES AT ARGYLE PA",
+        "papi": "75001716"
+      },
+      {
+        "name": "KEITH B BANTON MD",
+        "papi": "75050582"
+      },
+      {
+        "name": "TREASURE COAST COMMUNITY HEALTH",
+        "papi": "75020485"
+      },
+      {
+        "name": "MARIANNA FAMILY CARE CENTER LLC",
+        "papi": "75050193"
+      },
+      {
+        "name": "CHILDRENS CLINIC",
+        "papi": "75021201"
+      },
+      {
+        "name": "MARION HEART ASSOCIATES PA",
+        "papi": "75001641"
+      },
+      {
+        "name": "DCHD HEALTHCARE PROFESSIONALS LLC",
+        "papi": "75021292"
+      },
+      {
+        "name": "NORMAN URICH",
+        "papi": "75022008"
+      },
+      {
+        "name": "TRI COUNTY PREMIER MEDICAL CENTER INC",
+        "papi": "75020488"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020400"
+      },
+      {
+        "name": "PLANTATION PRIMARY CARE",
+        "papi": "75020205"
+      },
+      {
+        "name": "HAMILTON COUNTY HEALTH DEPARTMENT",
+        "papi": "75005314"
+      },
+      {
+        "name": "NORTH FLORIDA PEDIATRIC ASSOCIATES ",
+        "papi": "75001680"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75021245"
+      },
+      {
+        "name": "HEALTHY STEPS PEDIATRICS",
+        "papi": "75001576"
+      },
+      {
+        "name": "MY CHILDRENS DOCTOR",
+        "papi": "75019912"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020749"
+      },
+      {
+        "name": "SYED SHAFEEQ RAHMAN",
+        "papi": "75022081"
+      },
+      {
+        "name": "SOMA MEDICAL CENTER PA",
+        "papi": "75051030"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75005446"
+      },
+      {
+        "name": "MARIANNA PEDIATRIC ASSOCIATES",
+        "papi": "75050259"
+      },
+      {
+        "name": "HALIFAX HEALTHCARE SYSTEMS INC",
+        "papi": "75021568"
+      },
+      {
+        "name": "DMH EMERGENCY PHYSICIAN GROUP LLC",
+        "papi": "75051099"
+      },
+      {
+        "name": "TRI COUNTY FAMILY HEALTH CARE",
+        "papi": "75005455"
+      },
+      {
+        "name": "YOUR CARE CLINICS LLC",
+        "papi": "75020888"
+      },
+      {
+        "name": "FUTURE MEDICAL ASSOCIATES INC",
+        "papi": "75052244"
+      },
+      {
+        "name": "MISBAH FAROOQI",
+        "papi": "75008593"
+      },
+      {
+        "name": "DOTHAN PEDIATRIC CLINIC",
+        "papi": "75050184"
+      },
+      {
+        "name": "PEDIATRICS OF SARASOTA",
+        "papi": "75020093"
+      },
+      {
+        "name": "EXPRESS CARE OF BELLEVIEW",
+        "papi": "75001523"
+      },
+      {
+        "name": "SOUTH FLORIDA PEDIATRICS INC",
+        "papi": "75020366"
+      },
+      {
+        "name": "INSTITUTE OF INTERNAL MEDICINE",
+        "papi": "75001601"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTERS INC",
+        "papi": "75020431"
+      },
+      {
+        "name": "GULF COAST HEALTH CARE SYSTEMS",
+        "papi": "75021553"
+      },
+      {
+        "name": "TOWN CENTER FAMILY MEDICINE LLC",
+        "papi": "75051056"
+      },
+      {
+        "name": "EASTWOOD MEDICAL CENTER",
+        "papi": "75001511"
+      },
+      {
+        "name": "PREMIER COMMUNITY HEALTH CARE",
+        "papi": "75020221"
+      },
+      {
+        "name": "DEAN MEDICAL INC",
+        "papi": "75021294"
+      },
+      {
+        "name": "KIDZ AND FAMILY CARE",
+        "papi": "75021745"
+      },
+      {
+        "name": "KID MD PEDIATRICS LLC",
+        "papi": "75021737"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021376"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052433"
+      },
+      {
+        "name": "CITRUS HEALTH NETWORK",
+        "papi": "75021223"
+      },
+      {
+        "name": "UMDC DEPARTMENT OF FAMILY MEDICINE",
+        "papi": "75020507"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER BRANDON",
+        "papi": "75021457"
+      },
+      {
+        "name": "COMMUNITY HEALTH OF SOUTH FLORIDA",
+        "papi": "75021250"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008675"
+      },
+      {
+        "name": "GEORGE E WEEMS MEMORIAL HOSPITAL",
+        "papi": "75000003"
+      },
+      {
+        "name": "MY KIDS CLINIC",
+        "papi": "75019913"
+      },
+      {
+        "name": "FAMILY INTERAL MEDICINE OF OCALA LLC",
+        "papi": "75050226"
+      },
+      {
+        "name": "FOREST FAMILY HEALTH",
+        "papi": "75052780"
+      },
+      {
+        "name": "AZALEAH HEALTH PALATKA",
+        "papi": "75001471"
+      },
+      {
+        "name": "ER PHYSICIAN GROUP AT JACKSON HOSPITAL",
+        "papi": "75052529"
+      },
+      {
+        "name": "TMH PHYSICIAN PARTNERS PERRY",
+        "papi": "75050072"
+      },
+      {
+        "name": "TMH PHYSICIAN PARTNERS WAKULLA",
+        "papi": "75050070"
+      },
+      {
+        "name": "DOVER HEALTH CENTER",
+        "papi": "75021322"
+      },
+      {
+        "name": "PREMIER PEDIATRICS LLC",
+        "papi": "75050399"
+      },
+      {
+        "name": "KIDS PLACE PEDIATRICS PA",
+        "papi": "75021744"
+      },
+      {
+        "name": "ALL PEDIATRICS PA",
+        "papi": "75020982"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050108"
+      },
+      {
+        "name": "BRIGHT PEDIATRICS",
+        "papi": "75050041"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021378"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021377"
+      },
+      {
+        "name": "STARKE HMA MEDICAL GROUP LLC",
+        "papi": "75050539"
+      },
+      {
+        "name": "THE MEDICAL CENTER OF BLOUNTSTOWN",
+        "papi": "75001840"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008643"
+      },
+      {
+        "name": "DINA A BADRA MD",
+        "papi": "75050947"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTERS INC",
+        "papi": "75051200"
+      },
+      {
+        "name": "FLORIDA PEDIATRIC ASSOCIATES LLC",
+        "papi": "75021486"
+      },
+      {
+        "name": "APEX PEDIATRICS",
+        "papi": "75001463"
+      },
+      {
+        "name": "AVON PARK PEDIATRICS INC",
+        "papi": "75050912"
+      },
+      {
+        "name": "FAMILY MEDICINE ON CALL INC",
+        "papi": "75021389"
+      },
+      {
+        "name": "FUTURE PEDIATRICS",
+        "papi": "75050262"
+      },
+      {
+        "name": "INTERNAL MEDICINE SPECIALISTS MEDICAL GROUP PA",
+        "papi": "75021672"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75021243"
+      },
+      {
+        "name": "WEST ORANGE PHYISICANS GROUP",
+        "papi": "75020757"
+      },
+      {
+        "name": "CALHOUN LIBERTY PRIMARY CARE CLINIC",
+        "papi": "75001314"
+      },
+      {
+        "name": "ABRAKIDABRA PEDIATRICS CLINIC LLC",
+        "papi": "75001433"
+      },
+      {
+        "name": "SUNCOAST PREMIER MEDICAL LLC",
+        "papi": "75001796"
+      },
+      {
+        "name": "DOCTORS MEDICAL CENTER",
+        "papi": "75021316"
+      },
+      {
+        "name": "JESSIE FURLOW MEDICAL CENTER",
+        "papi": "75008615"
+      },
+      {
+        "name": "AMIR MANZOOR MD",
+        "papi": "75052315"
+      },
+      {
+        "name": "SHANDS AT UF",
+        "papi": "75008692"
+      },
+      {
+        "name": "JOGI WALK IN CLINIC INC",
+        "papi": "75021716"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75008607"
+      },
+      {
+        "name": "CAMPBELLTON GRACEVILLE HOSPITAL",
+        "papi": "75001316"
+      },
+      {
+        "name": "PEDIATRIX MEDICAL GROUP OF FLORIDA INC",
+        "papi": "75020109"
+      },
+      {
+        "name": "ROLANDO GARCIA",
+        "papi": "75022069"
+      },
+      {
+        "name": "RIAZUNISSA ARIFUDDIN",
+        "papi": "75022023"
+      },
+      {
+        "name": "SUNSTATE PEDIATRICS PA",
+        "papi": "75020420"
+      },
+      {
+        "name": "AHMAD T ISMAIL MD",
+        "papi": "75001445"
+      },
+      {
+        "name": "ESCAMBIA COMMUNITY CLINICS INC",
+        "papi": "75021354"
+      },
+      {
+        "name": "CAMILLUS HEALTH CONCERN",
+        "papi": "75021147"
+      },
+      {
+        "name": "CARDINAL HEALTHCARE PLLC",
+        "papi": "75050387"
+      },
+      {
+        "name": "FAMILY FIRST WELLNESS CLINIC LLC",
+        "papi": "75050737"
+      },
+      {
+        "name": "QUINCY FAMILY MEDICINE INC",
+        "papi": "75001742"
+      },
+      {
+        "name": "SEITZ PEDIATRICS PL",
+        "papi": "75020341"
+      },
+      {
+        "name": "VIP FAMILY PRACTICE",
+        "papi": "75020712"
+      },
+      {
+        "name": "HUMBERTO CASANOVA",
+        "papi": "75022011"
+      },
+      {
+        "name": "NICKLAUS OUTPATIENT CENTER",
+        "papi": "75019928"
+      },
+      {
+        "name": "PEDIATRIC HEALTH CARE",
+        "papi": "75020055"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS INC",
+        "papi": "75050039"
+      },
+      {
+        "name": "HERNANDO COUNTY HEALTH DEPARTMENT",
+        "papi": "75008610"
+      },
+      {
+        "name": "WAKULLA MEDICAL CENTER",
+        "papi": "75005241"
+      },
+      {
+        "name": "THE PEDIATRIC CENTER INC",
+        "papi": "75020462"
+      },
+      {
+        "name": "COMPREHENSIVE MEDICAL ACCESS INC",
+        "papi": "75021265"
+      },
+      {
+        "name": "LANGLEY HEALTH SERVICES",
+        "papi": "75013814"
+      },
+      {
+        "name": "SMH FIRST PHYSICIAN GROUP",
+        "papi": "75053199"
+      },
+      {
+        "name": "MAGNOLIA PEDIATRICS LLC",
+        "papi": "75001633"
+      },
+      {
+        "name": "MY PEDIATRICIAN PA",
+        "papi": "75019810"
+      },
+      {
+        "name": "BREVARD HEALTH ALLIANCE INC",
+        "papi": "75021133"
+      },
+      {
+        "name": " ERNEST GONZALEZ",
+        "papi": "75001381"
+      },
+      {
+        "name": "MERCHANT PEDIATRICS",
+        "papi": "75019868"
+      },
+      {
+        "name": "ACCESS MEDICAL GROUP OF MIAMI INC",
+        "papi": "75020922"
+      },
+      {
+        "name": "LAKE SHORE HMA MEDICAL GROUP LLC",
+        "papi": "75050583"
+      },
+      {
+        "name": "COMMUNITY HEALTH OF SOUTH FLORIDA",
+        "papi": "75021247"
+      },
+      {
+        "name": "GAINESVILLE FAMILY PHYSICIAN LLC",
+        "papi": "75005311"
+      },
+      {
+        "name": "GAINESVILLE FAMILY PHYSICIAN LLC",
+        "papi": "75005311"
+      },
+      {
+        "name": "NORTH PORT PRIMARY CARE ASSOCIATES PL",
+        "papi": "75019943"
+      },
+      {
+        "name": "JESSIE FURLOW MEDICAL CENTER",
+        "papi": "75008616"
+      },
+      {
+        "name": "QUALITY MEDICAL CARE PA",
+        "papi": "75020246"
+      },
+      {
+        "name": "PEDIATRIC CENTERS OF LEE COUNTY",
+        "papi": "75020042"
+      },
+      {
+        "name": "DESOTO MEMORIAL HOSPITAL INC",
+        "papi": "75021299"
+      },
+      {
+        "name": "PEDIATRIC CENTERS OF LEE COUNTY",
+        "papi": "75020041"
+      },
+      {
+        "name": "FLORIDA FAMILY HEALTH MEDICAL CENTER PLLC",
+        "papi": "75001546"
+      },
+      {
+        "name": "FLORIDA MEDICAL SPECIALIST LLC",
+        "papi": "75021475"
+      },
+      {
+        "name": "HEARTLAND PEDIATRICS ASSOCIATION OF WAUCHULA PA",
+        "papi": "75021602"
+      },
+      {
+        "name": "MICHELE A JOHNSON TOWSON MD PA",
+        "papi": "75019889"
+      },
+      {
+        "name": "FLORIDA PRIMARY CARE CENTER PA",
+        "papi": "75021501"
+      },
+      {
+        "name": "ALTAMONTE PEDIATRIC ASSOCIATES PA",
+        "papi": "75020989"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021386"
+      },
+      {
+        "name": "APPLE PEDIATRICS",
+        "papi": "75053281"
+      },
+      {
+        "name": "YAHIA A RAHIM",
+        "papi": "75050061"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021375"
+      },
+      {
+        "name": "HALIFAX HEALTHCARE SYSTEMS INC",
+        "papi": "75021571"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER MOORE HAVEN CENTER",
+        "papi": "75021434"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021900"
+      },
+      {
+        "name": "NCHMD INC",
+        "papi": "75019828"
+      },
+      {
+        "name": "SANTA ROSA COMMUNITY CLINIC",
+        "papi": "75020326"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75008606"
+      },
+      {
+        "name": "FILEMON PATACXIL",
+        "papi": "75001389"
+      },
+      {
+        "name": "FLORIDA WOMAN CARE LLC",
+        "papi": "75009467"
+      },
+      {
+        "name": "RAINS, CAROLINE S.",
+        "papi": "75006694"
+      },
+      {
+        "name": "FLORIDA FAMILY PRIMARY CARE CENTERS OF PINELLAS LLC",
+        "papi": "75052926"
+      },
+      {
+        "name": "MATTHEW SMITH",
+        "papi": "75001431"
+      },
+      {
+        "name": "WEST ORANGE PHYISICANS GROUP",
+        "papi": "75020759"
+      },
+      {
+        "name": "OCALA INTERNAL MEDICINE ASSOCIATES PA",
+        "papi": "75001697"
+      },
+      {
+        "name": "PROFESSIONAL PARK PEDIATRICS PA",
+        "papi": "75050186"
+      },
+      {
+        "name": "KUNNIKA CHUTINAN",
+        "papi": "75021957"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75021244"
+      },
+      {
+        "name": "FLORIDA DEPT OF HEALTH GADSDEN COUNTY",
+        "papi": "75013927"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "BANYAN COMMUNITY HEALTH CENTER INC",
+        "papi": "75021090"
+      },
+      {
+        "name": "ST MARYS FAMILY MEDICINE",
+        "papi": "75020397"
+      },
+      {
+        "name": "EMERALD COAST PEDIATRICS",
+        "papi": "75050044"
+      },
+      {
+        "name": "GULFCOAST MD PA",
+        "papi": "75021561"
+      },
+      {
+        "name": "BRANFORD FAMILY MEDICAL",
+        "papi": "75001311"
+      },
+      {
+        "name": "APPLE PEDIATRICS",
+        "papi": "75053293"
+      },
+      {
+        "name": "DYNAMIC HEALTH CENTERS INC",
+        "papi": "75001509"
+      },
+      {
+        "name": "AZALEAH HEALTH INTERLACHEN",
+        "papi": "75001470"
+      },
+      {
+        "name": "JOSEPH M CHARLES JR",
+        "papi": "75008618"
+      },
+      {
+        "name": "BRADENTON HEART CENTER",
+        "papi": "75021125"
+      },
+      {
+        "name": "BREVARD HEALTH ALLIANCE INC",
+        "papi": "75050129"
+      },
+      {
+        "name": "MARINA V KULICK MD PLC",
+        "papi": "75021834"
+      },
+      {
+        "name": "ALL PEDIATRIC CARE PA",
+        "papi": "75008597"
+      },
+      {
+        "name": "OSLER HMA MEDICAL GROUP LLC",
+        "papi": "75038616"
+      },
+      {
+        "name": "RAMON GARCIA SEPTIEN MD PA",
+        "papi": "75020259"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75008605"
+      },
+      {
+        "name": "BRADFORD COUNTY HEALTH DEPARTMENT",
+        "papi": "75001310"
+      },
+      {
+        "name": "CARE RESOURCE",
+        "papi": "75021166"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050110"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020748"
+      },
+      {
+        "name": "CITRUS COUNTY HEALTH DEPARTMENT",
+        "papi": "75008579"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER BRANDON",
+        "papi": "75021456"
+      },
+      {
+        "name": "CHILDRENS HEALTH ALLIANCE LLC",
+        "papi": "75021204"
+      },
+      {
+        "name": "HEART OF FLORIDA HEALTH CENTER INC",
+        "papi": "75008608"
+      },
+      {
+        "name": "HENDRY COUNTY CONVINIENT CARE CENTER",
+        "papi": "75021607"
+      },
+      {
+        "name": "NAGDA MEDICAL INC",
+        "papi": "75001663"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75050465"
+      },
+      {
+        "name": "CHILDRENS MEDICAL CENTER",
+        "papi": "75001352"
+      },
+      {
+        "name": "LANGLEY HEALTH SERVICES",
+        "papi": "75014130"
+      },
+      {
+        "name": "ER PHYSICIAN GROUP AT JACKSON HOSPITAL",
+        "papi": "75052924"
+      },
+      {
+        "name": "ANGELS MEDICAL COMPANY",
+        "papi": "75021007"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020745"
+      },
+      {
+        "name": "ACCORD MEDICAL GROUP",
+        "papi": "75020927"
+      },
+      {
+        "name": "THREE RIVERS MEDICAL",
+        "papi": "75001841"
+      },
+      {
+        "name": "FAMILY INTERNAL MED OF OCALA LLC",
+        "papi": "75050223"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021384"
+      },
+      {
+        "name": "FAMILY MEDICAL SPECIALISTS OF FLORIDA PLC",
+        "papi": "75021387"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052552"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75021246"
+      },
+      {
+        "name": "VITAL CARE MEDICAL CENTER",
+        "papi": "75020715"
+      },
+      {
+        "name": "PANAMA INTERNAL MEDICINE ASSOCIATES",
+        "papi": "75050555"
+      },
+      {
+        "name": "LARGO PHYSICIAN GROUP",
+        "papi": "75050371"
+      },
+      {
+        "name": "FLORIDA FAMILY PHYSICIANS LLC",
+        "papi": "75021445"
+      },
+      {
+        "name": "JESSIE TRICE COMMUNITY HEALTH CENTER",
+        "papi": "75021700"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050104"
+      },
+      {
+        "name": "EAST LAKE PEDIATRICS PA",
+        "papi": "75021337"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050106"
+      },
+      {
+        "name": "CONTINUCARE MEDICAL MANAGEMENT LUTZ",
+        "papi": "75021273"
+      },
+      {
+        "name": "GENESIS COMMUNITY HEALTH",
+        "papi": "75021530"
+      },
+      {
+        "name": "PULMONARY & SLEEP OF TAMPA BAY",
+        "papi": "75020235"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021382"
+      },
+      {
+        "name": "HELGEMO & LIOU PEDIATRICS",
+        "papi": "75050914"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008645"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75050288"
+      },
+      {
+        "name": "JULIE KELCH MD PA",
+        "papi": "75052382"
+      },
+      {
+        "name": "GREATER TAMPA BAY PHYSICIAN NETWORK LLC",
+        "papi": "75050765"
+      },
+      {
+        "name": "COLON MORALES, JOHN D.",
+        "papi": "75006687"
+      },
+      {
+        "name": "GULF COAST PEDIATRICS OF SARASOTA PA",
+        "papi": "75021560"
+      },
+      {
+        "name": "SUNIL N LALLA MD PA",
+        "papi": "75020416"
+      },
+      {
+        "name": "CENTRAL FLORIDA FAMILY HEALTH CENTER LAKE UNDERHIL",
+        "papi": "75021184"
+      },
+      {
+        "name": "DOCTORS MEDICAL CENTER",
+        "papi": "75021315"
+      },
+      {
+        "name": "ACORN CLINIC",
+        "papi": "75001435"
+      },
+      {
+        "name": "SPRING HILL PRIMARY CARE LLC",
+        "papi": "75038472"
+      },
+      {
+        "name": "JOSE F PEREZ MD PA",
+        "papi": "75051104"
+      },
+      {
+        "name": "ADOLESCENT AND PEDIATRIC MEDICAL CENTER",
+        "papi": "75001436"
+      },
+      {
+        "name": "DAINA GREENE",
+        "papi": "75001359"
+      },
+      {
+        "name": "NILGER MALPARTIDA",
+        "papi": "75001455"
+      },
+      {
+        "name": "PREMIER COMMUNITY HEALTH CARE",
+        "papi": "75053022"
+      },
+      {
+        "name": "LEE MEMORIAL HEALTH SYSTEM",
+        "papi": "75021783"
+      },
+      {
+        "name": "BIRTH AND BEYOND RURAL HEALTH CENTER",
+        "papi": "75001306"
+      },
+      {
+        "name": "JESSIE TRICE COMMUNITY HEALTH CENTER",
+        "papi": "75021704"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75008624"
+      },
+      {
+        "name": "SHORELINE MEDICAL GROUP PA",
+        "papi": "75050241"
+      },
+      {
+        "name": "TMH PHYSICIAN PARTNERS QUINCY",
+        "papi": "75050073"
+      },
+      {
+        "name": "BINDOO NARAIN",
+        "papi": "75001315"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75005397"
+      },
+      {
+        "name": "LEVY COUNTY HEALTH DEPARTMENT",
+        "papi": "75040181"
+      },
+      {
+        "name": "ROBERT FRIEDMEYER",
+        "papi": "75021933"
+      },
+      {
+        "name": "APC PEDIATRICS",
+        "papi": "75021015"
+      },
+      {
+        "name": "NEIGHBORHOOD HEALTH SERVICES",
+        "papi": "75001668"
+      },
+      {
+        "name": "THE PEDIATRIC CENTER INC",
+        "papi": "75020460"
+      },
+      {
+        "name": "CHILDRENS MEDICAL CENTER",
+        "papi": "75050379"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75005446"
+      },
+      {
+        "name": "GOGI RAMAPPA",
+        "papi": "75008590"
+      },
+      {
+        "name": "ABC PEDIATRICS PA",
+        "papi": "75020914"
+      },
+      {
+        "name": "UNION COUNTY HEALTH DEPARTMENT",
+        "papi": "75008582"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020429"
+      },
+      {
+        "name": "ALACHUA COUNTY HEALTH DEPARTMENT",
+        "papi": "75008595"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020433"
+      },
+      {
+        "name": "LEESBURG PEDIATRICS",
+        "papi": "75008620"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021381"
+      },
+      {
+        "name": "EXCEL PEDIATRICS",
+        "papi": "75001521"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER WESTCHASE",
+        "papi": "75021462"
+      },
+      {
+        "name": "COMPREHENSIVE MEDICAL ACCESS INC",
+        "papi": "75021266"
+      },
+      {
+        "name": "HW OLIVER MD",
+        "papi": "75001573"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021899"
+      },
+      {
+        "name": "RUSKIN HEALTH CENTER",
+        "papi": "75020321"
+      },
+      {
+        "name": "SARASOTA CHILDRENS CLINIC CAROLA FLEENER",
+        "papi": "75020332"
+      },
+      {
+        "name": "CHILDRENS HEALTH ALLIANCE LLC",
+        "papi": "75021207"
+      },
+      {
+        "name": "KINGSWAY MEDICAL",
+        "papi": "75021748"
+      },
+      {
+        "name": "DR AZZAM A ADHAL MD",
+        "papi": "75052061"
+      },
+      {
+        "name": "BALDWIN PEDIATRICS",
+        "papi": "75001473"
+      },
+      {
+        "name": "RANDOLPH MEDICAL PRACTICES PA",
+        "papi": "75001745"
+      },
+      {
+        "name": "MARIA FERNANDEZ",
+        "papi": "75022127"
+      },
+      {
+        "name": "JACK M MATHENY MD",
+        "papi": "75001607"
+      },
+      {
+        "name": "POWERS PEDIATRICS",
+        "papi": "75020219"
+      },
+      {
+        "name": "PREMIER MEDICAL CLINIC",
+        "papi": "75052598"
+      },
+      {
+        "name": "CENTRAL FLORIDA FAMILY HEALTH CENTER SANFORD",
+        "papi": "75021185"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "RIVERS EDGE PEDIATRICS",
+        "papi": "75020276"
+      },
+      {
+        "name": "LAKE PEDIATRICS PA",
+        "papi": "75001622"
+      },
+      {
+        "name": "NIKHIL SHAH",
+        "papi": "75001454"
+      },
+      {
+        "name": "OSLER HMA MEDICAL GROUP LLC",
+        "papi": "75038610"
+      },
+      {
+        "name": "SUNSHINE PEDIATRICS OF LUTZ",
+        "papi": "75020419"
+      },
+      {
+        "name": "FLORIDA MEDICAL ASSOCIATES LLC",
+        "papi": "75001548"
+      },
+      {
+        "name": "GRACEVILLE FAMILY MEDICINE INC",
+        "papi": "75050272"
+      },
+      {
+        "name": "FIRST CHOICE PEDIATRICS INC",
+        "papi": "75021398"
+      },
+      {
+        "name": "HORIZON PEDIATRICS",
+        "papi": "75001591"
+      },
+      {
+        "name": "HENDRY REGIONAL MEDICAL CENTER",
+        "papi": "75021614"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021896"
+      },
+      {
+        "name": "RAMON GARCIA SEPTIEN MD PA",
+        "papi": "75020260"
+      },
+      {
+        "name": "JCS MEDICAL ASSOCIATES",
+        "papi": "75021696"
+      },
+      {
+        "name": "CHESTER D MILTENBERG MD PA",
+        "papi": "75021198"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75050143"
+      },
+      {
+        "name": "PARTNERS IN PEDIATRICS PA",
+        "papi": "75050952"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75001386"
+      },
+      {
+        "name": "CHILDRENS HEALTH ALLIANCE LLC",
+        "papi": "75021205"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEALTHCARE LLC",
+        "papi": "75005216"
+      },
+      {
+        "name": "LARGO PHYSICIAN GROUP",
+        "papi": "75021766"
+      },
+      {
+        "name": "DOTHAN PEDIATRIC CLINIC",
+        "papi": "75050185"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021694"
+      },
+      {
+        "name": "FLORIDA COLLEGE OF NURSING",
+        "papi": "75008688"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020432"
+      },
+      {
+        "name": "NCHMD INC",
+        "papi": "75019822"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL ASSOCIATION INC",
+        "papi": "75020642"
+      },
+      {
+        "name": "AZALEAH HEALTH CRESCENT CITY",
+        "papi": "75001468"
+      },
+      {
+        "name": "ST JUDES MEDICAL CENTER & WALK IN CLINIC",
+        "papi": "75020391"
+      },
+      {
+        "name": "PADALA FAMILY PRACTICE PLLC",
+        "papi": "75001710"
+      },
+      {
+        "name": "PEDIATRIC PHYSICIAN SERVICES INC",
+        "papi": "75020083"
+      },
+      {
+        "name": "PM PEDIATRICS PA",
+        "papi": "75020212"
+      },
+      {
+        "name": "COLUMBIA COUNTY HEALTH DEPARTMENT",
+        "papi": "75001374"
+      },
+      {
+        "name": "NONA PEDIATRIC CENTER",
+        "papi": "75019930"
+      },
+      {
+        "name": "HANA J CLEMENTS MD LLC",
+        "papi": "75021584"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020631"
+      },
+      {
+        "name": "LUZVIMINDA OLIVERIO",
+        "papi": "75001426"
+      },
+      {
+        "name": "CAPITAL REGIONAL HEART ASSOCIATES LLC",
+        "papi": "75001335"
+      },
+      {
+        "name": "PRIMARY CARE PHYSICIANS OF GAINESVILLE",
+        "papi": "75001727"
+      },
+      {
+        "name": "LEE MEMORIAL HEALTH SYSTEM",
+        "papi": "75021776"
+      },
+      {
+        "name": "HALIFAX HEALTHCARE SYSTEMS INC",
+        "papi": "75021581"
+      },
+      {
+        "name": "CALADIUM PEDIATRICS",
+        "papi": "75021145"
+      },
+      {
+        "name": "CONSULT CARE PAIN MEDICINE PA",
+        "papi": "75001477"
+      },
+      {
+        "name": "COMMUNITY CARE PEDIATRICS",
+        "papi": "75001382"
+      },
+      {
+        "name": "I CARE CLINIC LLC",
+        "papi": "75021631"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020695"
+      },
+      {
+        "name": "HAWKINS FAMILY MEDICINE LLC",
+        "papi": "75052167"
+      },
+      {
+        "name": "NORTH FLORIDA PEDIATRIC ASSOCIATES",
+        "papi": "75001680"
+      },
+      {
+        "name": "NAVARRE PEDIATRICS",
+        "papi": "75019820"
+      },
+      {
+        "name": "THE EBEIDS",
+        "papi": "75001838"
+      },
+      {
+        "name": "NORTHWEST FLORIDA PRIMARY CARE LLC",
+        "papi": "75019953"
+      },
+      {
+        "name": "KIDS MEDICAL CARE",
+        "papi": "75021742"
+      },
+      {
+        "name": "Bond Community Health Center, Inc.",
+        "papi": "75032971"
+      },
+      {
+        "name": "OSCEOLA COUNTY HEALTH DEPARTMENT",
+        "papi": "75019993"
+      },
+      {
+        "name": "VINCENT M IVERS",
+        "papi": "75050574"
+      },
+      {
+        "name": "ST LUCIE MEDICAL SPECIALISTS LLC",
+        "papi": "75020394"
+      },
+      {
+        "name": "GAINESVILLE PHYSICIAN LLC",
+        "papi": "75050373"
+      },
+      {
+        "name": "FIU FACULTY GROUP PRACTICE",
+        "papi": "75021402"
+      },
+      {
+        "name": "OCALA KIDNEY GROUP INC",
+        "papi": "75009486"
+      },
+      {
+        "name": "THE HEALTH CLINIC LLC",
+        "papi": "75050562"
+      },
+      {
+        "name": "PEDRO YLISASTIGUI MD PA",
+        "papi": "75050991"
+      },
+      {
+        "name": "MARIO DELGADO FERNANDEZ",
+        "papi": "75022024"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER RIVERVIEW",
+        "papi": "75021460"
+      },
+      {
+        "name": "SMH FIRST PHYSICIAN GROUP",
+        "papi": "75053201"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTER INC",
+        "papi": "75020434"
+      },
+      {
+        "name": "TALLAHASSEE MEMORIAL HOSPITAL",
+        "papi": "75005428"
+      },
+      {
+        "name": "ORLANDO FAMILY PHYSICIANS LLC",
+        "papi": "75052976"
+      },
+      {
+        "name": "BOCA PEDIATRIC GROUP PA",
+        "papi": "75021115"
+      },
+      {
+        "name": "PEDIATRIC ASSOCIATES AT ARGYLE PA",
+        "papi": "75020022"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER BRANDON",
+        "papi": "75021455"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020750"
+      },
+      {
+        "name": "MERCHANT PEDIATRICS",
+        "papi": "75019866"
+      },
+      {
+        "name": "GILCHRIST COUNTY HEALTH DEPARTMENT",
+        "papi": "75040185"
+      },
+      {
+        "name": "TAVARES PEDIATRICS",
+        "papi": "75008633"
+      },
+      {
+        "name": "LEVY COUNTY HEALTH DEPARTMENT",
+        "papi": "75001627"
+      },
+      {
+        "name": "TAMPA GENERAL HOSPITAL",
+        "papi": "75033755"
+      },
+      {
+        "name": "RHONA HOLGANZA",
+        "papi": "75022132"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052547"
+      },
+      {
+        "name": "OLABISI OYADIRAN",
+        "papi": "75022107"
+      },
+      {
+        "name": "HEARTLAND PEDIATRIC ASSOCIATES PA",
+        "papi": "75051002"
+      },
+      {
+        "name": "UMDC DIVISION OF GENERAL PEDIATRICS",
+        "papi": "75020536"
+      },
+      {
+        "name": "OCALA FAMILY CARE",
+        "papi": "75001692"
+      },
+      {
+        "name": "ACCESS MEDICAL GROUP OF WESTCHESTER INC",
+        "papi": "75020925"
+      },
+      {
+        "name": "CENTRAL FLORIDA FAMILY HEALTH CENTER SOUTHSIDE",
+        "papi": "75021186"
+      },
+      {
+        "name": "GRACE PEDIATRICS ALLIED",
+        "papi": "75001568"
+      },
+      {
+        "name": "FLORIDA HEALTH SCIENCES CENTER LOIS",
+        "papi": "75021459"
+      },
+      {
+        "name": "FAMILY INTERNAL MEDICINE OF OCALA LLC",
+        "papi": "75001528"
+      },
+      {
+        "name": "PRIMECARE DBA LAZARO FRAGA MD PA",
+        "papi": "75020228"
+      },
+      {
+        "name": "NORTH OKALOOSA CLINIC CORP",
+        "papi": "75038605"
+      },
+      {
+        "name": "MUQEET SIDDIQUI MD LLC",
+        "papi": "75019910"
+      },
+      {
+        "name": "BAILEY FAMILY PRACTICE                ",
+        "papi": "75050870"
+      },
+      {
+        "name": "HERNANDO COUNTY HEALTH DEPARTMENT",
+        "papi": "75008612"
+      },
+      {
+        "name": "LOWELL F CLARK MD PA",
+        "papi": "75001630"
+      },
+      {
+        "name": "FIRST CHOICE PEDIATRICS INC",
+        "papi": "75021399"
+      },
+      {
+        "name": "RF MEDICAL SERVICES INC",
+        "papi": "75020270"
+      },
+      {
+        "name": "DZUNG NGUYEN",
+        "papi": "75001376"
+      },
+      {
+        "name": "INTERNAL MEDICINE PRACTICES",
+        "papi": "75050038"
+      },
+      {
+        "name": "DIVAKER PEDIATRICS LLC",
+        "papi": "75050276"
+      },
+      {
+        "name": "PULMONARY AND SLEEP OF TAMPA BAY",
+        "papi": "75020239"
+      },
+      {
+        "name": "KAPLAN, PERRY",
+        "papi": "1002742"
+      },
+      {
+        "name": "MCH EMERGENCY PHYSICIANS",
+        "papi": "75021859"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75051285"
+      },
+      {
+        "name": "TREASURE COAST COMMUNITY HEALTH",
+        "papi": "75020484"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020405"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021383"
+      },
+      {
+        "name": "WEST FLORIDA MEDICAL ASSOCIATES P A",
+        "papi": "75001394"
+      },
+      {
+        "name": "WILDWOOD MEDICAL CENTER",
+        "papi": "75001409"
+      },
+      {
+        "name": "BALDWIN PEDIATRICS",
+        "papi": "75001473"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021690"
+      },
+      {
+        "name": "HEALTH CARE CENTER FOR THE HOMELESS",
+        "papi": "75021590"
+      },
+      {
+        "name": "TAYLOR MEDICAL CENTER",
+        "papi": "75001835"
+      },
+      {
+        "name": "FACULTY GROUP PRACTICE",
+        "papi": "75008656"
+      },
+      {
+        "name": "BOND COMMUNITY HEALTH CENTER",
+        "papi": "75001309"
+      },
+      {
+        "name": "NCHMD INC",
+        "papi": "75019845"
+      },
+      {
+        "name": "MACKOUL PEDIATRICS",
+        "papi": "75021823"
+      },
+      {
+        "name": "AZALEAH HEALTH KEYSTONE HEIGHTS",
+        "papi": "75021086"
+      },
+      {
+        "name": "DR MOHAMED KASSEM MD",
+        "papi": "75052339"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052533"
+      },
+      {
+        "name": "SOUTHEASTERN INTEGRATED MEDICAL PA",
+        "papi": "75005397"
+      },
+      {
+        "name": "GERARDO DURAN",
+        "papi": "75021931"
+      },
+      {
+        "name": "SALMA HITAWALA MD PA",
+        "papi": "75050260"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050101"
+      },
+      {
+        "name": "DMH PHYSICIANS GROUP",
+        "papi": "75005285"
+      },
+      {
+        "name": "CENTRAL FLORIDA FAMILY HEALTH CENTER HOFFNER",
+        "papi": "75021183"
+      },
+      {
+        "name": "EARL B BRITT PA",
+        "papi": "75050384"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75051212"
+      },
+      {
+        "name": "PANAMERICAN INTERNAL MEDICINE",
+        "papi": "75020017"
+      },
+      {
+        "name": "WEISS PEDIATRIC CARE LLC",
+        "papi": "75020723"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050102"
+      },
+      {
+        "name": "PROFESSIONAL PEDIATRICS",
+        "papi": "75001729"
+      },
+      {
+        "name": "ACCESS MEDICAL GROUP OF NORTH MIAMI BEACH INC",
+        "papi": "75020923"
+      },
+      {
+        "name": "EXCEL PEDIATRICS",
+        "papi": "75050137"
+      },
+      {
+        "name": "NORMAN S NOVIS MD PA",
+        "papi": "75001675"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020656"
+      },
+      {
+        "name": "DAVID BUTLER",
+        "papi": "75022046"
+      },
+      {
+        "name": "GULF COAST MEDICAL SPECIALISTS PLLC",
+        "papi": "75021556"
+      },
+      {
+        "name": "PLANTATION PRIMARY CARE",
+        "papi": "75020209"
+      },
+      {
+        "name": "ACUTE CARE PEDIATRICS PA",
+        "papi": "75052567"
+      },
+      {
+        "name": "ST LUCIE PEDIATRICS",
+        "papi": "75020396"
+      },
+      {
+        "name": "DOS PEDIATRICS",
+        "papi": "75021321"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020677"
+      },
+      {
+        "name": "NATURE COAST MEDICAL GROUP PA",
+        "papi": "75001664"
+      },
+      {
+        "name": "FAMILY MEDICAL SPECIALISTS OF FLORIDA PLC",
+        "papi": "75021388"
+      },
+      {
+        "name": "VITAL SIGNS PHYSICIANS",
+        "papi": "75020718"
+      },
+      {
+        "name": "SONNIS PEDIATRICS INC",
+        "papi": "75051038"
+      },
+      {
+        "name": "MIAMI BEACH COMMUNITY HEALTH CENTER",
+        "papi": "75019871"
+      },
+      {
+        "name": "THE MEDICAL & WELLNESS CENTER OF MELROSE",
+        "papi": "75001839"
+      },
+      {
+        "name": "OSCEOLA COUNTY HEALTH DEPARTMENT",
+        "papi": "75019994"
+      },
+      {
+        "name": "HALIFAX HEALTHCARE SYSTEMS INC",
+        "papi": "75021565"
+      },
+      {
+        "name": "PEDIATRIC CARE GROUP PA",
+        "papi": "75020040"
+      },
+      {
+        "name": "EHRLICH, JERRY S.",
+        "papi": "1004121"
+      },
+      {
+        "name": "TEENA HUGHES",
+        "papi": "75021976"
+      },
+      {
+        "name": "SARASOTA CHILDRENS CLINIC CAROLA FLEENER",
+        "papi": "75020331"
+      },
+      {
+        "name": "SUNSHINE PEDIATRICS",
+        "papi": "75050059"
+      },
+      {
+        "name": "GRACE PEDIATRICS ALLIED",
+        "papi": "75005313"
+      },
+      {
+        "name": "MEADOW WOODS CHILDRENS HEALTH CENTER",
+        "papi": "75021901"
+      },
+      {
+        "name": "FLORIDA FAMILY PRIMARY CARE CENTERS OF TAMPA LLC",
+        "papi": "75052941"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021379"
+      },
+      {
+        "name": "ANCHOR MEDICAL GROUP",
+        "papi": "75021001"
+      },
+      {
+        "name": "LAHENS MEDICAL CENTER INC",
+        "papi": "75021754"
+      },
+      {
+        "name": "ABRAKIDABRA PEDIATRICS CLINIC LLC",
+        "papi": "75020917"
+      },
+      {
+        "name": "FLORIDA PEDIATRIC ASSOCIATES LLC",
+        "papi": "75021483"
+      },
+      {
+        "name": "POLK PEDIATRICS",
+        "papi": "75020215"
+      },
+      {
+        "name": "NORTH FLORIDA PEDIATRICS PA",
+        "papi": "75001683"
+      },
+      {
+        "name": "GAINESVILLE FAMILY PHYSICIAN LLC",
+        "papi": "75005311"
+      },
+      {
+        "name": "MARCY HOWARD",
+        "papi": "75001427"
+      },
+      {
+        "name": "COGENT HEALTHCARE OF OCALA LLC",
+        "papi": "75008581"
+      },
+      {
+        "name": "DESTINY MEDICAL ASSOCIATES",
+        "papi": "75001484"
+      },
+      {
+        "name": "MAGDI EMARA",
+        "papi": "75021997"
+      },
+      {
+        "name": "ROBERT W WILSON DO PA",
+        "papi": "75020286"
+      },
+      {
+        "name": "EAST LAKE PEDIATRICS PA",
+        "papi": "75021336"
+      },
+      {
+        "name": "SUN N LAKE MEDICAL SEBRING",
+        "papi": "75020412"
+      },
+      {
+        "name": "ST JOSEPHS COMMUNITY CARE INC",
+        "papi": "75020390"
+      },
+      {
+        "name": "MUHAMMAD SALEEM",
+        "papi": "75021952"
+      },
+      {
+        "name": "PEDIATRIC HEALTH CARE",
+        "papi": "75020056"
+      },
+      {
+        "name": "PREMIER COMMUNITY HEALTH CARE",
+        "papi": "75020223"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020744"
+      },
+      {
+        "name": "DIXIE COUNTY HEALTH DEPARTMENT",
+        "papi": "75051329"
+      },
+      {
+        "name": "INTERNAL MEDICINE PRACTICES",
+        "papi": "75001605"
+      },
+      {
+        "name": "UMDC DEPARTMENT OF COMMUNITY HEALTH DELIVERY SYSTE",
+        "papi": "75020494"
+      },
+      {
+        "name": "TAMPA FAMILY HEALTH CENTERS INC",
+        "papi": "75020435"
+      },
+      {
+        "name": "MARIA M CONCEPCION MD",
+        "papi": "75021832"
+      },
+      {
+        "name": "MEDICAL PAVILION CLINIC",
+        "papi": "75050037"
+      },
+      {
+        "name": "JACKSON CHD DENTAL CLINIC",
+        "papi": "75014065"
+      },
+      {
+        "name": "NEIGHBORHOOD HEALTH SERVICES",
+        "papi": "75001668"
+      },
+      {
+        "name": "PARADISE PEDIATRICS PL",
+        "papi": "75020018"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020406"
+      },
+      {
+        "name": "INPATIENT SPECIALIST OF SOUTHWEST FLORIDA LLC",
+        "papi": "75021664"
+      },
+      {
+        "name": "JAYCARE MEDICAL CENTER",
+        "papi": "75021692"
+      },
+      {
+        "name": "MARHOLIN MEDICAL INSTITUTE",
+        "papi": "75001636"
+      },
+      {
+        "name": "ALL PEDIATRIC CARE PA",
+        "papi": "75020981"
+      },
+      {
+        "name": "WEST FLORIDA PHYSICIAN NETWORK LLC",
+        "papi": "75020741"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020402"
+      },
+      {
+        "name": "NORTH FLORIDA WOMENS CARE",
+        "papi": "75050621"
+      },
+      {
+        "name": "PEDRO VILLANUEVA",
+        "papi": "75022083"
+      },
+      {
+        "name": "PREMIER COMMUNITY HEALTH CARE",
+        "papi": "75020222"
+      },
+      {
+        "name": "SOMA MEDICAL CENTER PA 3",
+        "papi": "75020360"
+      },
+      {
+        "name": "GADSDEN COUNTY HEALTH DEPARTMENT",
+        "papi": "75050337"
+      },
+      {
+        "name": "COLONIAL MEDICAL CENTER",
+        "papi": "75021239"
+      },
+      {
+        "name": "LANGLEY HEALTH SERVICES",
+        "papi": "75050160"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS INC",
+        "papi": "75008621"
+      },
+      {
+        "name": "ELIAS KANAAN MD PA",
+        "papi": "75021344"
+      },
+      {
+        "name": "CANTONMENT MEDICAL CENTER",
+        "papi": "75021157"
+      },
+      {
+        "name": "NEVENKA HORVAT MD PA",
+        "papi": "75019926"
+      },
+      {
+        "name": "COMMUNITY HEALTH CENTERS OF PINELLAS INC",
+        "papi": "75021242"
+      },
+      {
+        "name": "CARDIOLOGY & INTERNAL MEDICINE GROUP OF NORTH FLORIDA",
+        "papi": "75052350"
+      },
+      {
+        "name": "SEBRING PEDIATRICS LLC",
+        "papi": "75051008"
+      },
+      {
+        "name": "TRENTON MEDICAL CENTER INC",
+        "papi": "75050105"
+      },
+      {
+        "name": "INGRID JOHNSON RACHESKY MD",
+        "papi": "75050049"
+      },
+      {
+        "name": "PROFESSIONAL HEALTH CARE OF PINELLAS",
+        "papi": "75020230"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER STUART CENTER",
+        "papi": "75021437"
+      },
+      {
+        "name": "FAMILY HEALTH CENTERS OF SOUTHWEST FLORIDA INC",
+        "papi": "75021385"
+      },
+      {
+        "name": "CONTINUCARE MEDICAL MANAGEMENT AT PLANT CITY",
+        "papi": "75021270"
+      },
+      {
+        "name": "LUIS SCACCABARROZZI",
+        "papi": "75001424"
+      },
+      {
+        "name": "SIVA MD PA",
+        "papi": "75001762"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020681"
+      },
+      {
+        "name": "BUSHNELL FAMILY PRACTICE CENTER",
+        "papi": "75001312"
+      },
+      {
+        "name": "INSTITUTE FOR CHILD AND FAMILY HEALTH",
+        "papi": "75021666"
+      },
+      {
+        "name": "ALL ABOUT KIDS PEDIATRICS",
+        "papi": "75020973"
+      },
+      {
+        "name": "MILAGROS SEGUERRA DOCTORA MD PA",
+        "papi": "75019903"
+      },
+      {
+        "name": "TMH PHYSICIAN PARTNERS MONTICELLO",
+        "papi": "75050071"
+      },
+      {
+        "name": "ANDREW M GELLADY MD PA",
+        "papi": "75050878"
+      },
+      {
+        "name": "TRINITY FAMILY HEALTH CARE",
+        "papi": "75020490"
+      },
+      {
+        "name": "ANEESA AHMAD",
+        "papi": "75021930"
+      },
+      {
+        "name": "MARC BARASCH",
+        "papi": "75022004"
+      },
+      {
+        "name": "USFUMSA",
+        "papi": "75020685"
+      },
+      {
+        "name": "FAMILY MEDICAL PRACTICE",
+        "papi": "75001533"
+      },
+      {
+        "name": "JULIETA SANTOS",
+        "papi": "75022129"
+      },
+      {
+        "name": "ERNESTO LAMADRID",
+        "papi": "75001383"
+      },
+      {
+        "name": "FSU COM-TMH IM RESIDENCY PROGRAM",
+        "papi": "75050068"
+      },
+      {
+        "name": "MIAMI BEACH COMMUNITY HEALTH CENTER",
+        "papi": "75019870"
+      },
+      {
+        "name": "JOE H GAY MD",
+        "papi": "75050853"
+      },
+      {
+        "name": "CITRUS COUNTY HEALTH DEPARTMENT",
+        "papi": "75008577"
+      },
+      {
+        "name": "ST PETERSBURG PEDIATRICS",
+        "papi": "75020401"
+      },
+      {
+        "name": "HENDRY FAMILY CARE CENTER",
+        "papi": "75021610"
+      },
+      {
+        "name": "TALLAHASSEE PRIMARY CARE ASSOCIATES PA",
+        "papi": "75052425"
+      },
+      {
+        "name": "LUCIENNE VALCOURT",
+        "papi": "75022050"
+      },
+      {
+        "name": "PANHANDLE FAMILY CARE ASSOCIATES INC",
+        "papi": "75051246"
+      },
+      {
+        "name": "TENDER CARE PEDIATRICS",
+        "papi": "75020450"
+      },
+      {
+        "name": "LAGOS PEDIATRIC CARE",
+        "papi": "75001456"
+      },
+      {
+        "name": "GULF COAST PEDIATRICS OF SARASOTA PA",
+        "papi": "75021559"
+      },
+      {
+        "name": "HENDRY REGIONAL MEDICAL CENTER",
+        "papi": "75021613"
+      },
+      {
+        "name": "AYMAN T ABOULELA MD",
+        "papi": "75052322"
+      },
+      {
+        "name": "CONVENIENT MEDICAL & HEALTH SERVICES INC",
+        "papi": "75021281"
+      },
+      {
+        "name": "CARCAMO PEDIATRICS INC",
+        "papi": "75021159"
+      },
+      {
+        "name": "UNIVERSITY MEDICAL SERVICE ASSOCIATION INC",
+        "papi": "75051242"
+      },
+      {
+        "name": "",
+        "papi": "60190817"
+      },
+      {
+        "name": "HENDRY FAMILY CARE CENTER",
+        "papi": "75021608"
+      },
+      {
+        "name": "MEMORIAL FAMILY PRACTICE ASSOCIATES",
+        "papi": "75019862"
+      },
+      {
+        "name": "THE CLINIC OF PEDIATRICS AND GI MEDICINE INC",
+        "papi": "75050042"
+      },
+      {
+        "name": "ELLA VARNEY MD",
+        "papi": "75021349"
+      },
+      {
+        "name": "INSTITUTE OF CARDIOVASCULAR EXCELLENCE PLLC",
+        "papi": "75001599"
+      },
+      {
+        "name": "TALLAHASSEE ORTHOPEDIC CLINIC",
+        "papi": "75005435"
+      },
+      {
+        "name": "SAMUEL E WARD MD PL",
+        "papi": "75050590"
+      },
+      {
+        "name": "FLORIDA COMMUNITY HEALTH CENTER LAKESHORE MEDICAL",
+        "papi": "75021433"
+      },
+      {
+        "name": "LANGLEY HEALTH SERVICES",
+        "papi": "75050161"
+      },
+      {
+        "name": "TRI COUNTY PRIMARY CARE INC",
+        "papi": "75008635"
+      },
+      {
+        "name": "INPATIENT SPECIALIST OF SOUTHWEST FLORIDA LLC",
+        "papi": "75021663"
+      }
+    ],
+    "payerAssignedIdentifiers": [
+      {
+        "payerId": "BCBSF",
+        "identifier": "60190817"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75006694"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008595"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75006687"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008301"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008596"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008688"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020260"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020273"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020274"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020276"
+      },
+      {
+        "payerId": "BCBSF",
+        "identifier": "G2509"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020302"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020321"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020326"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020327"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020332"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020341"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020360"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020361"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020370"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020391"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020394"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020396"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020397"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020399"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020400"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020401"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020403"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020405"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020406"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020412"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020414"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020416"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020419"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020420"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020429"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020430"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020432"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020433"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020434"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020437"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020450"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020484"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020485"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020490"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020491"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020494"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020507"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051246"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020018"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050952"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020024"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020042"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020083"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020093"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020118"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022083"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050991"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020219"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053022"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052598"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050550"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050399"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020239"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020616"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020631"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020650"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020654"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020656"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020685"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020707"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020717"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020718"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020724"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020727"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020741"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020749"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020750"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020757"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020759"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020812"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020842"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020888"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020895"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020916"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020923"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020925"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020966"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020973"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020980"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020982"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020989"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020991"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021007"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021011"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021074"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021086"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021088"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021100"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021114"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021131"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021135"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001386"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020246"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020257"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052414"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050442"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020269"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020270"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022132"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021933"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020286"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022069"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050260"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050590"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020331"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020333"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051008"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053201"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053199"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051030"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051038"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020366"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020390"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020402"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050539"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020411"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052460"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005428"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052425"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052602"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052552"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052433"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052447"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052533"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052547"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020436"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020431"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020435"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020428"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051200"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75033755"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051016"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021976"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050562"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020460"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020462"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001841"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020467"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051056"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050382"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050106"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020488"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020536"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020606"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020642"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021602"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021147"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021159"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021166"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021172"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021175"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021182"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021183"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021184"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021185"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021186"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021198"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021201"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021205"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021207"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021212"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021239"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021243"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021244"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021245"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021246"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021250"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021253"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021257"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021258"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021266"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021269"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021283"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021298"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021310"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021315"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021316"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021322"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021336"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021343"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021344"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021349"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021353"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021354"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021374"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021378"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021381"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021389"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021392"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021396"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021444"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021455"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021458"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021483"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021501"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021530"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021552"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021561"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021562"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021565"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021568"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021571"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021581"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021584"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021590"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021623"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021631"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021632"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021663"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021666"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021671"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021672"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021689"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021690"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021692"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021693"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021694"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021696"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021699"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021703"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021708"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021727"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021737"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021742"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021745"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021754"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021758"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021759"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021765"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021766"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021806"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021814"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021818"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021823"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021832"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021859"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021886"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021896"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021898"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021899"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021900"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021901"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021902"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021910"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021930"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021931"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021952"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021953"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021957"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021966"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021993"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021997"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022008"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022010"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022011"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022023"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022081"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022085"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022104"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022107"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022110"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022120"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022127"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022133"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75038472"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75038605"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75038610"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75038616"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050041"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050042"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050044"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050049"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050051"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050055"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050059"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050061"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050068"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050070"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050071"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050072"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050073"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050074"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050075"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050101"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050102"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050103"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050104"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050105"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050108"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050110"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050129"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050137"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050143"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050144"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050145"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050146"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050148"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050156"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050160"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050161"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050184"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050185"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050186"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050193"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050223"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050225"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050226"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050241"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050246"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050254"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050259"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050262"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050265"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050286"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050287"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050288"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050289"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050290"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020914"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020917"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020922"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020924"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020927"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052567"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052179"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020975"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020981"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052553"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020990"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020998"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052315"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021001"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050878"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022089"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021010"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021014"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021015"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021016"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053281"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053293"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050912"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052322"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75053221"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050870"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021089"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021090"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050830"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050922"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021103"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021115"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75013954"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021117"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021118"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021125"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021126"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021137"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021133"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75032971"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021145"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021157"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050652"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050656"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050653"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050387"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052350"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050933"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050379"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020649"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020633"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051256"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050248"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051212"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051242"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020695"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020681"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020658"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020657"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020677"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050574"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020712"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020715"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020723"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050397"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020743"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020744"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020746"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020748"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050465"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020745"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021938"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021204"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021213"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021223"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050039"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021242"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051285"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021247"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021259"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021260"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021265"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001477"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021277"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021270"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021273"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021272"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021281"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001359"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022046"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021292"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021294"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021299"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021300"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050947"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050276"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051329"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051099"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021318"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021321"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052061"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050900"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052339"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050384"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020203"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021337"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052529"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052924"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052928"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001519"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050737"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75014187"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021377"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021376"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021383"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021384"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021386"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021382"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021375"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021385"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021379"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050224"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050227"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050228"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021388"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021387"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021398"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021399"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021402"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021430"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021431"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021432"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021433"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052384"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005243"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001391"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75000003"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001304"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001315"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001381"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001410"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001423"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001424"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001457"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001463"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001473"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001527"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001637"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001800"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001591"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001306"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001310"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001312"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001313"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001316"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001335"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001351"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001352"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001374"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001376"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001377"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001378"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001382"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001389"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001394"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001408"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001409"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001426"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001427"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001431"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001433"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001435"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001436"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001442"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001445"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001454"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001455"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001456"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001459"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001462"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001468"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001470"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001472"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001474"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001476"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001484"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001509"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001510"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001521"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001523"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001528"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001533"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001534"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001546"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001547"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001548"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001555"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001562"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001568"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001573"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001576"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001577"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001589"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001590"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021434"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021435"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021437"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75013927"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021443"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021445"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052926"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052941"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021456"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021457"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021459"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021460"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021462"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021475"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021472"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021486"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75009467"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052780"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052244"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050337"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050373"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75040185"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021542"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050272"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021547"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050765"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021553"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021556"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021559"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021560"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052167"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008607"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008609"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050220"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051002"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050948"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050905"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022054"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050914"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021607"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021608"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021610"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021614"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021613"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051082"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021622"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022032"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021659"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021664"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008613"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050038"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001592"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001599"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001601"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001605"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001607"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001619"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001620"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001622"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001630"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001632"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001633"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001636"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001641"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001656"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001664"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001666"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001675"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001688"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001697"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001706"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001710"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001716"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001726"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001729"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001734"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001742"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001745"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001750"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001754"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001757"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001762"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001796"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001798"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001835"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001840"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001856"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001857"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005275"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005285"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005292"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005298"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005313"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005314"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005385"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005455"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008576"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008577"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008579"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008581"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008582"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008590"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008593"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008594"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008597"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008602"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008606"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008608"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008605"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001680"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001309"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001471"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050069"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001712"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050956"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021676"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021677"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75014065"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022106"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021691"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021700"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021704"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050853"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021716"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022094"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051104"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021726"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052382"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022129"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "1002742"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021732"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050582"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021739"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021744"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021748"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75051118"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050701"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050583"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021760"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75014130"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75013814"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050371"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001624"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021783"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021776"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75040181"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052325"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022050"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022004"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050593"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021834"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75022024"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052003"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052348"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021843"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021857"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75021883"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008624"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050037"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019868"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019871"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050577"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019889"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019903"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001658"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019810"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019811"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001663"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050864"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019822"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019828"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019845"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050252"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052850"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020259"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008610"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008611"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008612"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008615"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008616"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008618"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008620"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008621"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008623"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008633"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008635"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008637"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008643"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008645"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008646"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008648"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008654"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008656"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008666"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008671"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008675"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75008692"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019820"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019851"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019862"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019866"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019870"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019910"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019912"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019913"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019926"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019928"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019930"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019993"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019994"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020022"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020023"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020025"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020040"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020041"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020055"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020056"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020061"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020092"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020109"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020162"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020166"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020170"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020179"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020205"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020209"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020212"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020215"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020221"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020222"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020223"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020228"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020230"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020234"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020235"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050621"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019943"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019948"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019953"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019966"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019967"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001692"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75009486"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75052976"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75019995"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75050555"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75020017"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "1002742 "
+      },
+      {
+        "payerId": "45056",
+        "identifier": "1004121"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001309"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001383"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001390"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001457"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001314"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001457"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001473"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001511"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001627"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001668"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001668"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001680"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001731"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005397"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005397"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005435"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005435"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005446"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005446"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75006685"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001683"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001720"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001727"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001838"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75001839"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005216"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005241"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005311"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005397"
+      },
+      {
+        "payerId": "45056",
+        "identifier": "75005397"
+      }
+    ]
+  }
+}
