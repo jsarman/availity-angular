@@ -85,7 +85,8 @@ module.exports = {
       './lib/ui/validation/adapter.js',
       './lib/ui/dropdown/dropdown.js',
       './lib/ui/datepicker/datepicker.js',
-      './lib/ui/idle/idle-notifier.js'
+      './lib/ui/idle/idle-notifier.js',
+      './lib/ui/typeahead/typeahead.js'
     ],
     specs: './lib/ui/**/*spec.js',
     destDist: './dist',
@@ -109,7 +110,9 @@ module.exports = {
       './bower_components/lodash-compat/lodash.js',
       './bower_components/moment/moment.js',
       './bower_components/select2/select2.js',
-      './bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js'
+      './bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js',
+      './bower_components/typeahead.js/dist/typeahead.bundle.js',
+      './bower_components/handlebars/handlebars.js',
     ],
     destMaps: './maps', // this is relative path to the destDist above,
     dest: 'build/guide/js',
