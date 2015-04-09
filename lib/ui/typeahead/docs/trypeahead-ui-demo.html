@@ -2,21 +2,19 @@
 title: Typeahead
 ---
 
-<div class="guide-example">
+<div class="guide-example" data-ng-controller="TypeaheadController">
   <form name="dropdownForm">
     <div class="form-group">
       <label for="dropdownStates1">Tax ID</label>
-      
-    </div>
-    <div class="form-controls">
-      <input id="search" class="input-block-level" type="text"
+       <input id="search" class="form-control form-control-suggest" type="text"
         name="taxId"
         placeholder="1234567893"
         data-ng-model="taxids"
+        data-details="taxIds"
+        data-template="demoTemplate"
         data-av-typeahead
         data-av-typeahead-providers
       >
-     
     </div>
   </form>
 </div>
