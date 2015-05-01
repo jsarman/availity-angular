@@ -2011,7 +2011,7 @@
     var proto = EventService.prototype;
 
     proto.triggerEvent = function (eventName, targetWindow) {
-      targetWindow.parent.postMessage(eventName, this._getDomain(root));
+      targetWindow.postMessage(eventName, this._getDomain(root));
     };
 
     proto._getDomain = function(w) {
@@ -2028,7 +2028,7 @@
     return new EventService();
   };
 
-  availity.core.factory('EventService', NavigationEventService);
+  availity.core.factory('navigationEventService', NavigationEventService);
 
 })(window);
 
