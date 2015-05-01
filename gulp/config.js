@@ -63,7 +63,8 @@ module.exports = {
       './lib/core/validation/validators/validator-required.js',
       './lib/core/validation/validators/validator-date-range.js',
       './lib/core/validation/validators/validator-date-format.js',
-      './lib/core/utils/globals.js'
+      './lib/core/utils/globals.js',
+      './lib/core/navigation/event-service.js'
     ],
     specs: './lib/core/**/*spec.js',
     destDist: './dist',
