@@ -2011,7 +2011,7 @@
     var proto = EventService.prototype;
 
     proto.triggerEvent = function (eventName, targetWindow) {
-      targetWindow.postMessage(eventName, this._getDomain(root));
+      targetWindow.parent.postMessage(eventName, this._getDomain(root));
     };
 
     proto._getDomain = function(w) {
