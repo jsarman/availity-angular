@@ -39,9 +39,12 @@ gulp.task('copy:fonts:uikit', function() {
 
 gulp.task('copy:docs:js:templates', function() {
   var flatten = require('gulp-flatten');
-
+  var gulpsmith = require('gulpsmith');
+  var metalsmithPrism = require('metalsmith-prism');
   return gulp.src(config.docs.jsTemplates.src)
     .pipe(gulpif(config.args.verbose, using({prefix:'Task [copy:docs:js:templates] using'})))
+    .pipe(gulpsmith()
+      .use(metalsmithPrism()))
     .pipe(flatten())
     .pipe(gulp.dest(config.docs.jsTemplates.dest));
 });

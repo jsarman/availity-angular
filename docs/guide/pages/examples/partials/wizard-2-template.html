@@ -2,74 +2,49 @@
   <div class="stepwizard-row">
     <a class="stepwizard-step completed">
       <span href="#step-1" class="stepwizard-badge">1</span>
-      <span class="stepwizard-title">First</span>
+      <span class="stepwizard-title">First Route</span>
     </a>
     <a class="stepwizard-step active">
       <span href="#step-2" class="stepwizard-badge">2</span>
-      <span class="stepwizard-title">Second with some long text</span>
+      <span class="stepwizard-title">Second Route</span>
     </a>
     <a class="stepwizard-step disabled">
       <span href="#step-3" class="stepwizard-badge">3</span>
-      <span class="stepwizard-title">Third</span>
-    </a>
-    <a class="stepwizard-step disabled">
-      <span href="#step-3" class="stepwizard-badge">4</span>
-      <span class="stepwizard-title">Fourth with some really really really long text</span>
+      <span class="stepwizard-title">Third Route</span>
     </a>
   </div>
 </div>
 <div>
-  <h1>Using UI-Router Continued</h1>
+<div class="panel panel-default">
+  <h1 class="panel-heading panel-title">Using UI-Router Continued</h1>
+  <div class="panel-body">
+    <code class="language-markup">
+      availity.demo.config(function($stateProvider, $urlRouterProvider){
+        //code
+      }
+    </code>
+    <p>The default config must reference <code>$stateProvider</code> and <code>$urlRouterProvider</code> to be used.
+      In order for UI-Router to kick in a ui-view must be present in the markup, if no ui-view is present no routing will take place. </p>
+    <code class="language-markup">
+      $urlRouterProvider.otherwise('/Wizard-1');
 
-  <p>This marks the default state if no state is given.</p>
-  <code class="language-markup">
-    $stateProvider
-    .state('Wizard-1', {
-    url: '/Wizard-1',
-    templateUrl: 'templates/wizard-1-template.html'
-    })
-    .state('Wizard-2', {
-    url: '/Wizard-2',
-    templateUrl: 'templates/wizard-2-template.html'
-    })
-    .state('Wizard-3', {
-    url: '/Wizard-3',
-    templateUrl: 'templates/wizard-3-template.html'
-    });
-  </code>
-  <p>The state provider gives a list of states along with their intended URL path.</p>
-
-
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-  <p>Prosciutto short ribs ground round ham hock. Alcatra swine kevin ham, picanha beef pork biltong porchetta tenderloin tri-tip turducken. Hamburger beef turkey pork chop short loin frankfurter swine ham hock prosciutto porchetta pastrami cupim pancetta. Rump jowl turkey cow jerky spare ribs turducken pork chop boudin. Hamburger prosciutto picanha pork loin. Sausage tongue ham hock tail boudin strip steak cow beef brisket swine landjaeger chicken corned beef pancetta.</p>
-
-  <a ui-sref="Wizard-3" class="btn btn-primary">Next</a>
+      $stateProvider
+      .state('Wizard-1', {
+        url: '/Wizard-1',
+        templateUrl: 'templates/wizard-1-template.html'
+      })
+      .state('Wizard-2', {
+        url: '/Wizard-2',
+        templateUrl: 'templates/wizard-2-template.html'
+      })
+      .state('Wizard-3', {
+        url: '/Wizard-3',
+        templateUrl: 'templates/wizard-3-template.html'
+      });
+    </code>
+    <p><code>$urlrouterProvider.otherwise()</code> marks the default state if no state is given, this is only used if ui-view is present.
+      The state provider gives a list of states along with their intended URL path. The first parameter int <code>.state</code> states the name of the state, <code>url:</code> states what the url for the state is, and <code>templateUrl:</code> gives what view will be loaded into the ui-view in a get request.</p>
+  </div>
+</div>
+  <a ui-sref="Wizard-3"  class="btn btn-primary">Next</a>
 </div>
