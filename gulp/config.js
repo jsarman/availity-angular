@@ -158,7 +158,7 @@ module.exports = {
       dest: 'build/guide/js'
     },
     jsTemplates: {
-      src: 'lib/**/docs/*-template.html',
+      src: ['lib/**/docs/*-template.html','lib/**/docs/*-template.html', 'docs/guide/pages/examples/partials/*-template.html'],
       dest: 'build/guide/templates'
     },
     partials: {
