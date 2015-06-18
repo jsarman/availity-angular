@@ -7,7 +7,7 @@ var utils = require('./utils');
 var pkg = require('../../package.json');
 
 var config = {
-    context: path.join(workflowConfig.project.path, 'project/app'),
+    context: path.join(workflowConfig.project.path, 'lib'),
     entry: {
         index: utils.entry(),
         vendor: ['vendor']
@@ -22,16 +22,40 @@ var config = {
     debug: utils.isDevelopment(),
     cache: utils.isDevelopment(),
     watch: utils.isDevelopment(),
+    noParse: [
+        /.*bower_components.*/
+    ],
     resolve: {
-        root: [path.join(workflowConfig.project.path, '/lib')],
-        modulesDirectories: ['node_modules'],
+        root: [path.join(workflowConfig.project.path, '/lib/ui')],
+        modulesDirectories: ['bower_components', 'node_modules'],
         extensions: ['', '.js', '.json']
     },
     module: {
         loaders: [{
-            test: /[\\\/]lodash\.js$/,
-            loader: 'expose?_'
-        }]
+                test: /[\\\/]angular\.js$/,
+                loader: 'expose?angular!exports?angular'
+            }, {
+                test: /[\\\/]jquery\.js$/,
+                loader: 'expose?$!expose?jQuery'
+            }, // export jQuery and $ to global scope.
+            {
+                test: /[\\\/]lodash\.js$/,
+                loader: 'expose?_'
+            }, // export jQuery and $ to global scope.
+            {
+                test: /[\\\/]moment\.js$/,
+                loader: 'expose?moment'
+            }, {
+                test: /[\\\/]lodash\.js$/,
+                loader: 'expose?_'
+            }, {
+                test: /\.handlebars$/,
+                loader: "handlebars-loader"
+            }, {
+                test: /\.html$/,
+                loader: 'html'
+            }
+        ]
     },
     plugins: [
 
@@ -52,18 +76,20 @@ var config = {
 
 
 
-if(utils.isProduction()) {
-  config.plugins.push(
-    new webpack.optimize.UglifyJsPlugin({
-      mangle: false,
-      compress: {
-        drop_console: true
-      },
-      output: { comments: false }
-    }),
-    new webpack.optimize.OccurenceOrderPlugin(),
-    new webpack.optimize.DedupePlugin()
-  );
+if (utils.isProduction()) {
+    config.plugins.push(
+        new webpack.optimize.UglifyJsPlugin({
+            mangle: false,
+            compress: {
+                drop_console: true
+            },
+            output: {
+                comments: false
+            }
+        }),
+        new webpack.optimize.OccurenceOrderPlugin(),
+        new webpack.optimize.DedupePlugin()
+    );
 }
 
 module.exports = config;
