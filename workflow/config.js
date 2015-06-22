@@ -47,6 +47,37 @@ module.exports = {
     dest: 'build/guide/js',
     jshintrc: 'lib/.jshintrc'
   },
+  docs: {
+    all: {
+      src: [
+        'docs/guide/pages/*.html',
+        'docs/guide/pages/examples/*.html',
+        'lib/**/docs/*-demo.html'
+      ]
+    },
+    js: {
+      name: 'docs-demos.js',
+      src: [
+        'docs/guide/js/index.js',
+        'lib/**/docs/*-demo.js'
+      ],
+      dest: 'build/js'
+    },
+    jsTemplates: {
+      src: 'lib/**/docs/*-template.html',
+      dest: 'build/templates'
+    },
+    partials: {
+      src: 'docs/guide/templates/partials/*.hbs',
+      targets: 'docs/guide/templates/partials/**/*.hbs'
+    },
+    templates: {
+      src: './docs/guide/templates',
+      targets: 'docs/guide/templates/**/*.hbs',
+      extension: '.hbs'
+    },
+    dest: 'build'
+  },
   // tests: {
   //   src: [
   //     'specs.js',
@@ -62,7 +93,7 @@ module.exports = {
     src: ['./package.json', './bower.json']
   },
   sync: {
-    src: 'build/guide'
+    src: 'build'
   }
   // deploy: {
   //   src: './build',
