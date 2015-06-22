@@ -44,7 +44,7 @@ module.exports = {
     src: './lib/**/*-tpl.html',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,
-    dest: 'build/guide/js',
+    dest: 'build/js',
     jshintrc: 'lib/.jshintrc'
   },
   docs: {
