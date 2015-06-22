@@ -37,6 +37,8 @@ module.exports = {
     name: 'availity-angular.js',
     src: [
      './lib/core/index.js',
+      './lib/core/utils/deep-equal.js',
+      './lib/core/utils/deep-extend.js',
       './lib/core/utils/strings.js',
       './lib/core/utils/uuid.js',
       './lib/core/utils/urls.js',
