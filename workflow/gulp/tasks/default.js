@@ -6,6 +6,7 @@ gulp.task('default', function() {
     'clean:build',
     [ 'copy', 'concat'],
     'build',
+    'copy:css',
     'server',
     'watch'
   );

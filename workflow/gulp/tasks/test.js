@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var path = require('path');
 var gutil = require('gulp-util');
 
-var config = require('../config');
+var config = require('../../config');
 
 var files = config.test.src
   .concat(config.lib.src)
