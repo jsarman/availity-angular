@@ -86,12 +86,13 @@
     "moment": "^2.8.4",
     "node-libs-browser": "^0.5.2",
     "phantomjs": "^1.9.16",
+    "proxy-middleware": "^0.13.0",
     "request": "^2.55.0",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.1.0",
     "semver": "^4.3.3",
-    "webpack": "^1.9.11",
     "sinon": "^1.15.3",
-    "underscore.string": "^3.0.3"
+    "underscore.string": "^3.0.3",
+    "webpack": "^1.9.11"
   }
 }
