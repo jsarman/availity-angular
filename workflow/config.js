@@ -10,6 +10,11 @@ module.exports = {
   project: {
     path: path.resolve(__dirname, '..')
   },
+  regex: {
+    JSHINT: /([\/][\*][\s]*jshint\s.+[\*\/])/g,
+    GLOBAL: /([\/][\*][\s]*global\s.+[\*\/])/g,
+    VERSION: /(availity.VERSION = ')(v\d+.\d+.\d+)(')/g
+  },
   readme: {
     src: ['docs/readme/readme.config.md'],
     name: 'README.md',
@@ -44,7 +49,8 @@ module.exports = {
     src: './lib/**/*-tpl.html',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,
-    dest: 'build/guide/js',
+    dest: 'build/js',
+    // dest: 'build/guide/js',
     jshintrc: 'lib/.jshintrc'
   },
   docs: {
@@ -61,11 +67,13 @@ module.exports = {
         'docs/guide/js/index.js',
         'lib/**/docs/*-demo.js'
       ],
-      dest: 'build/guide/js'
+      dest: 'build/js'
+      // dest: 'build/guide/js'
     },
     jsTemplates: {
       src: 'lib/**/docs/*-template.html',
-      dest: 'build/guide/templates'
+      dest: 'build/templates'
+      // dest: 'build/guide/templates'
     },
     partials: {
       src: 'docs/guide/templates/partials/*.hbs',
@@ -76,7 +84,8 @@ module.exports = {
       targets: 'docs/guide/templates/**/*.hbs',
       extension: '.hbs'
     },
-    dest: 'build/guide'
+    dest: 'build'
+    // dest: 'build/guide'
   },
   test: {
     src: [
@@ -139,7 +148,8 @@ module.exports = {
     specs: './lib/core/**/*spec.js',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,
-    dest: 'build/guide/js',
+    dest: 'build/js',
+    // dest: 'build/guide/js',
     jshintrc: 'lib/.jshintrc'
   },
   ui: {
@@ -165,7 +175,8 @@ module.exports = {
     specs: './lib/ui/**/*spec.js',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,
-    dest: 'build/guide/js',
+    dest: 'build/js',
+    // dest: 'build/guide/js',
     jshintrc: 'lib/.jshintrc'
 
   },

@@ -10,6 +10,6 @@ gulp.task('copy:templates', function() {
 });
 
 gulp.task('copy:css', function() {
-	gulp.src('build/css/*')
-		.pipe(gulp.dest('build/guide/css'));
+	// gulp.src('build/css/*')
+		// .pipe(gulp.dest('build/guide/css'));
 });

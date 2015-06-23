@@ -26,7 +26,9 @@
     "tracekit": "~0.2.1"
   },
   "devDependencies": {
-    "angular-mocks": "1.2.28"
+    "angular-mocks": "1.2.28",
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2"
   },
   "ignore": [
     ".*",

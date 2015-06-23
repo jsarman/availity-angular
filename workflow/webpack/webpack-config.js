@@ -13,7 +13,7 @@ var pkg = require('../../package.json');
 var config = {
     context: path.join(__dirname, '..', '..', 'lib'),
     entry: {
-        index: [utils.entry(), path.join('..','docs/guide/js/index.js')],
+        index: [utils.entry()],
         vendor: ['vendor']
     },
     output: {
