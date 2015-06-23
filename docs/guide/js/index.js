@@ -1,7 +1,7 @@
 /*global availity:true, angular*/
 
-(function() {
-  'use strict';
+
+  var availity = {};
 
   availity.demo = angular.module('availity.demo', [
     'availity',
@@ -17,7 +17,6 @@
     avIdleProvider.enable(false);
   });
 
-})();
 
 (function($) {
 
