@@ -98,6 +98,27 @@ title: Validation
       </div>
       <p data-av-val-container id="container-1"></p>
     </div>
+    <div data-av-val-group="either" data-ng-model="demo.either" data-container-id="container-2">
+      <div class="form-group">
+        <label for="requiredGroup1">Either Me</label>
+        <input type="text"
+          class="form-control"
+          name="requiredGroup1"
+          placeholder="..."
+          data-ng-model="demo.requiredGroup1"
+        >
+      </div>
+      <div class="form-group">
+        <label for="requiredGroup2">Or Me</label>
+        <input type="text"
+          class="form-control"
+          name="requiredGroup2"
+          placeholder="..."
+          data-ng-model="demo.requiredGroup2"
+        >
+      </div>
+      <p data-av-val-container id="container-2"></p>
+    </div>
     <div class="checkbox">
       <label>
         <input type="checkbox" data-ng-model="demo.check"> Check me out
