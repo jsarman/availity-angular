@@ -39,6 +39,7 @@ module.exports = {
      './lib/core/index.js',
       './lib/core/utils/deep-equal.js',
       './lib/core/utils/deep-extend.js',
+      './lib/core/utils/object-to-array.js',
       './lib/core/utils/strings.js',
       './lib/core/utils/uuid.js',
       './lib/core/utils/urls.js',
@@ -101,7 +102,9 @@ module.exports = {
       './lib/ui/mask/mask.js',
       './lib/ui/permissions/has-permission.js',
       './lib/ui/analytics/analytics.js',
-      './lib/ui/placeholder/placeholder.js'
+      './lib/ui/placeholder/placeholder.js',
+      './lib/ui/form/form-config-service.js',
+      './lib/ui/form/required-field-combinations-validator.js'
     ],
     specs: './lib/ui/**/*spec.js',
     destDist: './dist',
