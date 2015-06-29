@@ -21,8 +21,11 @@ module.exports = {
     dest: './'
   },
   js: {
-    src: ['gulpfile.js', 'gulp/**/*.js'],
-    jshintrc: '.jshintrc'
+    src: 'lib/**/*.js',
+    srcAll: ['gulpfile.js', 'gulp/**/*.js'],
+    jshintrc: 'lib/.jshintrc',
+    specs: 'lib/**/*-spec.js',
+    reportsDir: path.join(__dirname, '..', 'reports')
   },
   app: {
     src: 'lib/core/index.js',
@@ -35,8 +38,8 @@ module.exports = {
   polyfill: {
     name: 'polyfill.js',
     src: [
-      'bower_components/html5shiv/dist/html5shiv.min.js',
-      'bower_components/respond/dest/respond.min.js'
+        'bower_components/html5shiv/dist/html5shiv.min.js',
+        'bower_components/respond/dest/respond.min.js'
     ],
     dest: './build/js'
   },
@@ -56,16 +59,16 @@ module.exports = {
   docs: {
     all: {
       src: [
-        'docs/guide/pages/*.html',
-        'docs/guide/pages/examples/*.html',
-        'lib/**/docs/*-demo.html'
+          'docs/guide/pages/*.html',
+          'docs/guide/pages/examples/*.html',
+          'lib/**/docs/*-demo.html'
       ]
     },
     js: {
       name: 'docs-demos.js',
       src: [
-        'docs/guide/js/index.js',
-        'lib/**/docs/*-demo.js'
+          'docs/guide/js/index.js',
+          'lib/**/docs/*-demo.js'
       ],
       dest: 'build/js'
       // dest: 'build/guide/js'
@@ -87,64 +90,42 @@ module.exports = {
     dest: 'build'
     // dest: 'build/guide'
   },
-  test: {
+  test1: {
     src: [
-      'node_modules/sinon/pkg/sinon.js',
-      'bower_components/jquery/dist/jquery.js',
-      'bower_components/angular/angular.js',
-      'bower_components/angular-sanitize/angular-sanitize.js',
-      'bower_components/angular-mocks/angular-mocks.js',
-      'bower_components/lodash-compat/lodash.js',
-      'bower_components/select2/select2.js',
-      'bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.js',
-      'bower_components/moment/moment.js',
-      'bower_components/jquery.inputmask/dist/inputmask/jquery.inputmask.js',
-      'bower_components/angular-shims-placeholder/dist/angular-shims-placeholder.js',
-      'bower_components/tracekit/tracekit.js',
-      'test/index.js',
-      'test/matchers.js',
-      'test/helpers.js'
+        'node_modules/sinon/pkg/sinon.js',
+        'bower_components/jquery/dist/jquery.js',
+        'bower_components/angular/angular.js',
+        'bower_components/angular-sanitize/angular-sanitize.js',
+        'bower_components/angular-mocks/angular-mocks.js',
+        'bower_components/lodash-compat/lodash.js',
+        'bower_components/select2/select2.js',
+        'bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.js',
+        'bower_components/moment/moment.js',
+        'bower_components/jquery.inputmask/dist/inputmask/jquery.inputmask.js',
+        'bower_components/angular-shims-placeholder/dist/angular-shims-placeholder.js',
+        'bower_components/tracekit/tracekit.js',
+        'test/index.js',
+        'test/matchers.js',
+        'test/helpers.js'
     ]
+  },
+  tests: {
+    src: [
+            'specs.js', {
+              pattern: path.join(__dirname, '..', '/lib/**/*-spec.js'),
+              included: false,
+              served: false,
+              watched: true
+            },
+
+        '../../test/matchers.js',
+        '../../test/helpers.js'
+        ],
+        jshintrc: 'test/.jshintrc'
   },
   lib: {
     name: 'availity-angular.js',
-    src: [
-     './lib/core/index.js',
-      './lib/core/utils/strings.js',
-      './lib/core/utils/uuid.js',
-      './lib/core/utils/urls.js',
-      './lib/core/utils/throttle.js',
-      './lib/core/logger/logger.js',
-      './lib/core/logger/logger-config.js',
-      './lib/core/polling/polling.js',
-      './lib/core/api/api-factory.js',
-      './lib/core/api/api-users.js',
-      './lib/core/api/api-coverages.js',
-      './lib/core/api/api-configurations.js',
-      './lib/core/api/api-log-messages.js',
-      './lib/core/api/api-documents.js',
-      './lib/core/api/api-organizations.js',
-      './lib/core/api/api-codes.js',
-      './lib/core/api/api-user-permissions.js',
-      './lib/core/authorizations/user-authorizations.js',
-      './lib/core/session/session.js',
-      './lib/core/idle/idle.js',
-      './lib/core/idle/idle-interceptor.js',
-      './lib/core/validation/validator.js',
-      './lib/core/validation/validators/validator-utils.js',
-      './lib/core/validation/validators/validator-size.js',
-      './lib/core/validation/validators/validator-pattern.js',
-      './lib/core/validation/validators/validator-required.js',
-      './lib/core/validation/validators/validator-date-range.js',
-      './lib/core/validation/validators/validator-date-format.js',
-      './lib/core/utils/globals.js',
-      './lib/core/analytics/analytics.js',
-      './lib/core/analytics/analytics-util.js',
-      './lib/core/analytics/analytics-splunk.js',
-      './lib/core/analytics/analytics-piwik.js',
-      './lib/core/analytics/analytics-exceptions.js',
-      './lib/core/utils/date-polyfill.js'
-    ],
+    src: [],
     specs: './lib/core/**/*spec.js',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,
@@ -154,24 +135,7 @@ module.exports = {
   },
   ui: {
     name: 'availity-angular-ui.js',
-    src: [
-      './lib/ui/index.js',
-      './lib/ui/templates/template.js',
-      './lib/ui/modal/modal.js',
-      './lib/ui/validation/form.js',
-      './lib/ui/validation/field.js',
-      './lib/ui/popover/popover.js',
-      './lib/ui/validation/messages.js',
-      './lib/ui/validation/adapter-bootstrap.js',
-      './lib/ui/validation/adapter.js',
-      './lib/ui/dropdown/dropdown.js',
-      './lib/ui/datepicker/datepicker.js',
-      './lib/ui/idle/idle-notifier.js',
-      './lib/ui/mask/mask.js',
-      './lib/ui/permissions/has-permission.js',
-      './lib/ui/analytics/analytics.js',
-      './lib/ui/placeholder/placeholder.js'
-    ],
+    src: [],
     specs: './lib/ui/**/*spec.js',
     destDist: './dist',
     destMaps: './maps', // this is relative path to the destDist above,

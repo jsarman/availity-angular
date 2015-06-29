@@ -1,69 +1,67 @@
-/* global jasmine, beforeEach*/
-(function() {
-  'use strict';
+/* global angular, jasmine, beforeEach*/
 
-  // NOTE: assume `jasmine` is loading in window object
+'use strict';
 
-  var matchers =  {
+// NOTE: assume `jasmine` is loading in window object
 
-    toBeObject: function() {
-      return {
-        compare: function(actual) {
-          return {
-            pass: angular.isObject(actual),
-            message: 'Expected '+ angular.mock.dump(actual) +' to be a equal to an Object'
-          };
-        }
-      };
-    },
+var matchers = {
 
-    toBeEqual: function() {
-      return {
-        compare: function(actual, expected) {
-          return {
-            pass: angular.equals(expected, actual),
-            message: 'Expected '+ angular.mock.dump(actual) +' to be a equal to ' + angular.mock.dump(expected)
-          };
-        }
-      };
-    },
+  toBeObject: function() {
+    return {
+      compare: function(actual) {
+        return {
+          pass: angular.isObject(actual),
+          message: 'Expected ' + angular.mock.dump(actual) + ' to be a equal to an Object'
+        };
+      }
+    };
+  },
 
-    toBeFunction: function() {
-      return {
-        compare: function(actual) {
-          return {
-            pass: angular.isFunction(actual),
-            message: 'Expected '+ angular.mock.dump(actual) + ' to be a function'
-          };
-        }
-      };
-    },
+  toBeEqual: function() {
+    return {
+      compare: function(actual, expected) {
+        return {
+          pass: angular.equals(expected, actual),
+          message: 'Expected ' + angular.mock.dump(actual) + ' to be a equal to ' + angular.mock.dump(expected)
+        };
+      }
+    };
+  },
 
-    toHaveClass: function () {
-      return {
-        compare: function (actual, expected) {
-          return {
-            pass: $(actual).hasClass(expected),
-            message: 'Expected '+ angular.mock.dump(actual) + ' to be equal to ' + expected
-          };
-        }
-      };
-    },
+  toBeFunction: function() {
+    return {
+      compare: function(actual) {
+        return {
+          pass: angular.isFunction(actual),
+          message: 'Expected ' + angular.mock.dump(actual) + ' to be a function'
+        };
+      }
+    };
+  },
 
-    toHaveFocus: function() {
-      return {
-        compare: function (actual) {
-          return {
-            pass: document.activeElement === actual[0],
-            message: 'Expected active element ' + angular.mock.dump(actual) + ' to have focus.'
-          };
-        }
-      };
-    }
-  };
+  toHaveClass: function() {
+    return {
+      compare: function(actual, expected) {
+        return {
+          pass: $(actual).hasClass(expected),
+          message: 'Expected ' + angular.mock.dump(actual) + ' to be equal to ' + expected
+        };
+      }
+    };
+  },
 
-  beforeEach(function() {
-    jasmine.addMatchers(matchers);
-  });
+  toHaveFocus: function() {
+    return {
+      compare: function(actual) {
+        return {
+          pass: document.activeElement === actual[0],
+          message: 'Expected active element ' + angular.mock.dump(actual) + ' to have focus.'
+        };
+      }
+    };
+  }
+};
 
-})();
+beforeEach(function() {
+  jasmine.addMatchers(matchers);
+});

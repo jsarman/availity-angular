@@ -4,40 +4,41 @@ var gutil = require('gulp-util');
 
 var config = require('../../config');
 
-var files = config.test.src
-  .concat(config.lib.src)
-  .concat(config.ui.src)
-  .concat(config.lib.specs)
-  .concat(config.ui.specs)
-  .concat({pattern: 'lib/**/*-fixture.html', watched: true, served: true, included: true});
+var files = config.tests.src;
+  // .concat(config.lib.src)
+  // .concat(config.ui.src)
+ // .concat(config.lib.specs)
+  //.concat(config.lib.specs)
+ // .concat(config.ui.specs);
+  //.concat({pattern: 'lib/**/*-fixture.html', watched: true, served: true, included: true});
 
 gulp.task('test', ['test:ci']);
 
 gulp.task('test:ci', ['lint'], function (done) {
   var karma = require('karma').server;
   karma.start({
-    configFile: path.join(config.project.path, 'karma.conf.js'),
+    configFile: path.join(config.project.path, 'workflow/karma/karma.conf.js'),
     singleRun: true,
     files: files
   }, done);
 });
 
-gulp.task('test:sauce', ['lint'], function (done) {
-  var karma = require('karma').server;
-  karma.start({
-    configFile: path.join(config.project.path, 'karma.conf-ci.js'),
-    singleRun: true,
-    files: files
-  }, function(exitCode) {
-    done(exitCode);
-    process.exit(exitCode);
-  });
-});
+// gulp.task('test:sauce', ['lint'], function (done) {
+//   var karma = require('karma').server;
+//   karma.start({
+//     configFile: path.join(config.project.path, 'karma.conf-ci.js'),
+//     singleRun: true,
+//     files: files
+//   }, function(exitCode) {
+//     done(exitCode);
+//     process.exit(exitCode);
+//   });
+// });
 
 gulp.task('test:server', ['lint'], function() {
   var karma = require('karma').server;
   karma.start({
-    configFile: path.join(config.project.path, 'karma.conf.js'),
+    configFile: path.join(config.project.path, 'workflow/karma/karma.conf.js'),
     browsers: ['Chrome'],
     files: files,
     reporters: ['progress', 'notify'],
